@@ -1,0 +1,2015 @@
+[
+    {
+        "category": {
+            "id": "women's_girls'fashion",
+            "name": "Women's & Girls'Fashion"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "traditional_wear",
+                    "name": "Traditional Wear",
+                    "href": "/"
+                },
+                "child_categories": [
+                    {
+                        "id": "shalwar_kameez",
+                        "name": "Shalwar Kameez",
+                        "href": "#shalwar_kameez"
+                    },
+                    {
+                        "id": "sarees",
+                        "name": "Sarees",
+                        "href": "#sarees"
+                    },
+                    {
+                        "id": "kurtis",
+                        "name": "Kurtis",
+                        "href": "#kurtis"
+                    },
+                    {
+                        "id": "party_kameez_gowns",
+                        "name": "Party Kameez & Gowns",
+                        "href": "#party_kameez_gowns"
+                    },
+                    {
+                        "id": "pants_palazzos_capris",
+                        "name": "Pants, Palazzos & Capris",
+                        "href": "#pants_palazzos_capris"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "muslim_wear",
+                    "name": "Muslim Wear",
+                    "href": "muslim_wear"
+                },
+                "child_categories": [
+                    {
+                        "id": "abayas_long_dresses",
+                        "name": "Abayas & Long Dresses",
+                        "href": "#abayas_long_dresses"
+                    },
+                    {
+                        "id": "hijabs",
+                        "name": "Hijabs",
+                        "href": "#hijabs"
+                    },
+                    {
+                        "id": "brooches",
+                        "name": "Brooches",
+                        "href": "#brooches"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "western_wear",
+                    "name": "Western Wear",
+                    "href": "western_wear"
+                },
+                "child_categories": [
+                    {
+                        "id": "dresses",
+                        "name": "Dresses",
+                        "href": "#dresses"
+                    },
+                    {
+                        "id": "tunics",
+                        "name": "Tunics",
+                        "href": "#tunics"
+                    },
+                    {
+                        "id": "t-shirts",
+                        "name": "T-shirts",
+                        "href": "#t-shirts"
+                    },
+                    {
+                        "id": "tops",
+                        "name": "Tops",
+                        "href": "#tops"
+                    },
+                    {
+                        "id": "skirts",
+                        "name": "Skirts",
+                        "href": "#skirts"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "innerwear",
+                    "name": "Inner Wear",
+                    "href": "innerwear"
+                },
+                "child_categories": [
+                    {
+                        "id": "robes_bodysuits",
+                        "name": "Robes &  bodysuits",
+                        "href": "#robes_bodysuits"
+                    },
+                    {
+                        "id": "sleep_loungewear",
+                        "name": "Sleep & Loungewear",
+                        "href": "#sleep_loungewear"
+                    },
+                    {
+                        "id": "tank_tops",
+                        "name": "Tank Tops",
+                        "href": "#tank_tops"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "shoes",
+                    "name": "Shoes",
+                    "href": "shoes"
+                },
+                "child_categories": [
+                    {
+                        "id": "heels",
+                        "name": "Heels",
+                        "href": "#heels"
+                    },
+                    {
+                        "id": "flats",
+                        "name": "Flats",
+                        "href": "#flats"
+                    },
+                    {
+                        "id": "sneakers",
+                        "name": "Sneakers",
+                        "href": "#sneakers"
+                    },
+                    {
+                        "id": "pump_shoes",
+                        "name": "Pump Shoes",
+                        "href": "#pump_shoes"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "bags",
+                    "name": "Bags",
+                    "href": "bags"
+                },
+                "child_categories": [
+                    {
+                        "id": "crossbody_shoulder Bags",
+                        "name": "Crossbody & shoulder Bags",
+                        "href": "#crossbody_shoulder Bags"
+                    },
+                    {
+                        "id": "backpacks",
+                        "name": "Backpacks",
+                        "href": "#backpacks"
+                    },
+                    {
+                        "id": "wallets",
+                        "name": "Wallets",
+                        "href": "#wallets"
+                    },
+                    {
+                        "id": "top_handle_bags",
+                        "name": "Top Handle Bags",
+                        "href": "#top_handle_bags"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "watches",
+                    "name": "Watches",
+                    "href": "watches"
+                },
+                "child_categories": [
+                    {
+                        "id": "casual",
+                        "name": "Casual",
+                        "href": "#casual"
+                    },
+                    {
+                        "id": "fashion",
+                        "name": "fashion",
+                        "href": "#fashion"
+                    },
+                    {
+                        "id": "sports",
+                        "name": "sports",
+                        "href": "#sports"
+                    },
+                    {
+                        "id": "accessories",
+                        "name": "accessories",
+                        "href": "#accessories"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "health_beauty",
+            "name": "Health & Beauty"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "skin_care",
+                    "name": "skin care",
+                    "href": "#skin_care"
+                },
+                "child_categories": [
+                    {
+                        "id": "face_mask_packs",
+                        "name": "face mask & packs",
+                        "href": "#face_mask_packs"
+                    },
+                    {
+                        "id": "face_wash_cleansers",
+                        "name": "face wash & cleansers",
+                        "href": "#face_wash_cleansers"
+                    },
+                    {
+                        "id": "sunscreen_aftersun",
+                        "name": "sunscreen and aftersun",
+                        "href": "#sunscreen_aftersun"
+                    },
+                    {
+                        "id": "lip_balm_treatment",
+                        "name": "lip balm and treatment",
+                        "href": "#lip_balm_treatment"
+                    },
+                    {
+                        "id": "night_cream",
+                        "name": "night cream",
+                        "href": "#night_cream"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "hair_care",
+                    "name": "hair care",
+                    "href": "#hair_care"
+                },
+                "child_categories": [
+                    {
+                        "id": "hair_oils",
+                        "name": "hair oils",
+                        "href": "#hair_oils"
+                    },
+                    {
+                        "id": "hair_treatments",
+                        "name": "hair treatments",
+                        "href": "#hair_treatments"
+                    },
+                    {
+                        "id": "hair_coloring",
+                        "name": "hair coloring",
+                        "href": "#hair_coloring"
+                    },
+                    {
+                        "id": "shampoo",
+                        "name": "shampoo",
+                        "href": "#shampoo"
+                    },
+                    {
+                        "id": "conditioner",
+                        "name": "conditioner",
+                        "href": "#conditioner"
+                    },
+                    {
+                        "id": "hair care accessories",
+                        "name": "hair care accessories",
+                        "href": "#hair care accessories"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "makeup",
+                    "name": "makeup",
+                    "href": "#makeup"
+                },
+                "child_categories": [
+                    {
+                        "id": "face",
+                        "name": "face",
+                        "href": "#face"
+                    },
+                    {
+                        "id": "eyes",
+                        "name": "eyes",
+                        "href": "#eyes"
+                    },
+                    {
+                        "id": "lips",
+                        "name": "lips",
+                        "href": "#lips"
+                    },
+                    {
+                        "id": "nails",
+                        "name": "nails",
+                        "href": "#nails"
+                    },
+                    {
+                        "id": "makeup_palettes_sets",
+                        "name": "makeup palettes & sets",
+                        "href": "#makeup_palettes_sets"
+                    },
+                    {
+                        "id": "makeup_accessor_",
+                        "name": "makeup accessories",
+                        "href": "#makeup_accessor_"
+                    },
+                    {
+                        "id": "makeup_removers",
+                        "name": "makeup removers",
+                        "href": "#makeup_removers"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "fragrances",
+                    "name": "fragrances",
+                    "href": "#fragrances"
+                },
+                "child_categories": [
+                    {
+                        "id": "women's_perfume",
+                        "name": "women's perfume",
+                        "href": "#women's_perfume"
+                    },
+                    {
+                        "id": "women's_body_spray",
+                        "name": "women's body spray",
+                        "href": "#women's_body_spray"
+                    },
+                    {
+                        "id": "roll-on_deo",
+                        "name": "roll-on & deo",
+                        "href": "#roll-on_deo"
+                    },
+                    {
+                        "id": "men's_perfume",
+                        "name": "men's perfume",
+                        "href": "#men's_perfume"
+                    },
+                    {
+                        "id": "men's_body_spray",
+                        "name": "men's body spray",
+                        "href": "#men's_body_spray"
+                    },
+                    {
+                        "id": "attar",
+                        "name": "attar",
+                        "href": "#attar"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "beauty_tools",
+                    "name": "beauty tools",
+                    "href": "#beauty_tools"
+                },
+                "child_categories": [
+                    {
+                        "id": "skin_care_tools",
+                        "name": "skin care tools",
+                        "href": "#skin_care_tools"
+                    },
+                    {
+                        "id": "hair_styling_appliances",
+                        "name": "hair styling appliances",
+                        "href": "#hair_styling_appliances"
+                    },
+                    {
+                        "id": "Electric_massagers",
+                        "name": "Electric massagers",
+                        "href": "#Electric_massagers"
+                    },
+                    {
+                        "id": "hair_removal_accessories",
+                        "name": "hair removal accessories",
+                        "href": "#hair_removal_accessories"
+                    },
+                    {
+                        "id": "eyelash_extension tools",
+                        "name": "eyelash extension tools",
+                        "href": "#eyelash_extension tools"
+                    },
+                    {
+                        "id": "nail_extension_tools",
+                        "name": "nail extension tools",
+                        "href": "#nail_extension_tools"
+                    },
+                    {
+                        "id": "foot care",
+                        "name": "foot care",
+                        "href": "#foot care"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "bath_body",
+                    "name": "bath & body",
+                    "href": "#bath_body"
+                },
+                "child_categories": [
+                    {
+                        "id": "body_massage_oils",
+                        "name": "body & massage oils",
+                        "href": "#body_massage_oils"
+                    },
+                    {
+                        "id": "body_scrubs",
+                        "name": "body scrubs",
+                        "href": "#body_scrubs"
+                    },
+                    {
+                        "id": "soaps_body_wash",
+                        "name": "soaps & body wash",
+                        "href": "#soaps_body_wash"
+                    },
+                    {
+                        "id": "hair_removal",
+                        "name": "hair removal",
+                        "href": "#hair_removal"
+                    },
+                    {
+                        "id": "hand_care",
+                        "name": "hand care",
+                        "href": "#hand_care"
+                    },
+                    {
+                        "id": "bath_body",
+                        "name": "bath & body",
+                        "href": "#bath_body"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "personal_care",
+                    "name": "personal care",
+                    "href": "#personal_care"
+                },
+                "child_categories": [
+                    {
+                        "id": "toothpaste",
+                        "name": "toothpaste",
+                        "href": "#toothpaste"
+                    },
+                    {
+                        "id": "toothbrush",
+                        "name": "toothbrush",
+                        "href": "#toothbrush"
+                    },
+                    {
+                        "id": "electric_toothbrush",
+                        "name": "electric toothbrush",
+                        "href": "#electric_toothbrush"
+                    },
+                    {
+                        "id": "dental_floss",
+                        "name": "dental floss",
+                        "href": "#dental_floss"
+                    },
+                    {
+                        "id": "mouthwash",
+                        "name": "mouthwash",
+                        "href": "#mouthwash"
+                    },
+                    {
+                        "id": "sanitary_napkins",
+                        "name": "sanitary napkins",
+                        "href": "#sanitary_napkins"
+                    },
+                    {
+                        "id": "ear_care",
+                        "name": "ear care",
+                        "href": "#ear_care"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "men's_cate",
+                    "name": "men's cate",
+                    "href": "#men's_cate"
+                },
+                "child_categories": [
+                    {
+                        "id": "shaving_grooming",
+                        "name": "shaving & grooming",
+                        "href": "#shaving_grooming"
+                    },
+                    {
+                        "id": "hair_care",
+                        "name": "hair care",
+                        "href": "#hair_care"
+                    },
+                    {
+                        "id": "aftershave_foam",
+                        "name": "aftershave & foam",
+                        "href": "#aftershave_foam"
+                    },
+                    {
+                        "id": "men's_perfume",
+                        "name": "men's perfume",
+                        "href": "#men's_perfume"
+                    },
+                    {
+                        "id": "men's_body_spray",
+                        "name": "men's body spray",
+                        "href": "#men's_body_spray"
+                    },
+                    {
+                        "id": "sport_nutrition",
+                        "name": "sport nutrition",
+                        "href": "#sport_nutrition"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "watches_bags_jewellery",
+            "name": "Watches,Bags,Jewellery"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "kids_bags",
+                    "name": "kids bags",
+                    "href": "#kids_bags"
+                },
+                "child_categories": [
+                    {
+                        "id": "backpacks",
+                        "name": "backpacks",
+                        "href": "#backpacks"
+                    },
+                    {
+                        "id": "bags",
+                        "name": "bags",
+                        "href": "#bags"
+                    },
+                    {
+                        "id": "school_bags_backpack",
+                        "name": "school bags & backpack",
+                        "href": "#school_bags_backpack"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "laptop_bags_cases",
+                    "name": "laptop bags & cases",
+                    "href": "#laptop_bags_cases"
+                },
+                "child_categories": [
+                    {
+                        "id": "backpacks",
+                        "name": "backpacks",
+                        "href": "#backpacks"
+                    },
+                    {
+                        "id": "briefcases",
+                        "name": "briefcases",
+                        "href": "#briefcases"
+                    },
+                    {
+                        "id": "laptop_cases",
+                        "name": "laptop cases",
+                        "href": "#laptop_cases"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "luggage",
+                    "name": "luggage",
+                    "href": "#luggage"
+                },
+                "child_categories": [
+                    {
+                        "id": "carry-ons",
+                        "name": "carry-ons",
+                        "href": "#carry-ons"
+                    },
+                    {
+                        "id": "kids_luggage",
+                        "name": "kids luggage",
+                        "href": "#kids_luggage"
+                    },
+                    {
+                        "id": "luggage_sets",
+                        "name": "luggage sets",
+                        "href": "#luggage_sets"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "travel_bags",
+                    "name": "travel bags",
+                    "href": "#travel_bags"
+                },
+                "child_categories": [
+                    {
+                        "id": "waist_packs",
+                        "name": "waist packs",
+                        "href": "#waist_packs"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "men's_bags",
+                    "name": "men's bags",
+                    "href": "#men's_bags"
+                },
+                "child_categories": [
+                    {
+                        "id": "backpacks",
+                        "name": "backpacks",
+                        "href": "#backpacks"
+                    },
+                    {
+                        "id": "business_bags",
+                        "name": "business bags",
+                        "href": "#business_bags"
+                    },
+                    {
+                        "id": "tote_bags",
+                        "name": "tote bags",
+                        "href": "#tote_bags"
+                    },
+                    {
+                        "id": "wallets_accessories",
+                        "name": "wallets & accessories",
+                        "href": "#wallets_accessories"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "women's_bags",
+                    "name": "women's bags",
+                    "href": "#women's_bags"
+                },
+                "child_categories": [
+                    {
+                        "id": "backpacks",
+                        "name": "backpacks",
+                        "href": "#backpacks"
+                    },
+                    {
+                        "id": "tote_bags",
+                        "name": "tote bags",
+                        "href": "#tote_bags"
+                    },
+                    {
+                        "id": "top-handle_bags",
+                        "name": "top-handle bags",
+                        "href": "#top-handle_bags"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "kids_bags",
+                    "name": "kids bags",
+                    "href": "#kids_bags"
+                },
+                "child_categories": [
+                    {
+                        "id": "backpacks",
+                        "name": "backpacks",
+                        "href": "#backpacks"
+                    },
+                    {
+                        "id": "bags",
+                        "name": "bags",
+                        "href": "#bags"
+                    },
+                    {
+                        "id": "school_bags_backpack",
+                        "name": "school bags & backpack",
+                        "href": "#school_bags_backpack"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "kids_bags",
+                    "name": "kids bags",
+                    "href": "#kids_bags"
+                },
+                "child_categories": [
+                    {
+                        "id": "backpacks",
+                        "name": "backpacks",
+                        "href": "#backpacks"
+                    },
+                    {
+                        "id": "bags",
+                        "name": "bags",
+                        "href": "#bags"
+                    },
+                    {
+                        "id": "school_bags_backpack",
+                        "name": "school bags & backpack",
+                        "href": "#school_bags_backpack"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "kids_bags",
+                    "name": "kids bags",
+                    "href": "#kids_bags"
+                },
+                "child_categories": [
+                    {
+                        "id": "backpacks",
+                        "name": "backpacks",
+                        "href": "#backpacks"
+                    },
+                    {
+                        "id": "bags",
+                        "name": "bags",
+                        "href": "#bags"
+                    },
+                    {
+                        "id": "school_bags_backpack",
+                        "name": "school bags & backpack",
+                        "href": "#school_bags_backpack"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "men's_watches",
+                    "name": "men's watches",
+                    "href": "#men's_watches"
+                },
+                "child_categories": [
+                    {
+                        "id": "business",
+                        "name": "business",
+                        "href": "#business"
+                    },
+                    {
+                        "id": "casual",
+                        "name": "casual",
+                        "href": "#casual"
+                    },
+                    {
+                        "id": "accessories",
+                        "name": "accessories",
+                        "href": "#accessories"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "women's_watches",
+                    "name": "women's watches",
+                    "href": "#women's_watches"
+                },
+                "child_categories": [
+                    {
+                        "id": "business",
+                        "name": "business",
+                        "href": "#business"
+                    },
+                    {
+                        "id": "casual",
+                        "name": "casual",
+                        "href": "#casual"
+                    },
+                    {
+                        "id": "accessories",
+                        "name": "accessories",
+                        "href": "#accessories"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "kids_watches",
+                    "name": "kids watches",
+                    "href": "#kids_watches"
+                },
+                "child_categories": [
+                    {
+                        "id": "boys",
+                        "name": "boys",
+                        "href": "#boys"
+                    },
+                    {
+                        "id": "girls",
+                        "name": "girls",
+                        "href": "#girls"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "women's_jewellery",
+                    "name": "women's jewellery",
+                    "href": "#women's_jewellery"
+                },
+                "child_categories": [
+                    {
+                        "id": "nose_pin_body_piercings",
+                        "name": "nose pin & body piercings",
+                        "href": "#nose_pin_body_piercings"
+                    },
+                    {
+                        "id": "necklaces",
+                        "name": "necklaces",
+                        "href": "#necklaces"
+                    },
+                    {
+                        "id": "earrings",
+                        "name": "earrings",
+                        "href": "#earrings"
+                    },
+                    {
+                        "id": "rings",
+                        "name": "rings",
+                        "href": "#rings"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "men's_jewellery",
+                    "name": "men's jewellery",
+                    "href": "#men's_jewellery"
+                },
+                "child_categories": [
+                    {
+                        "id": "bracelets",
+                        "name": "bracelets",
+                        "href": "#bracelets"
+                    },
+                    {
+                        "id": "necklaces",
+                        "name": "necklaces",
+                        "href": "#necklaces"
+                    },
+                    {
+                        "id": "earrings",
+                        "name": "earrings",
+                        "href": "#earrings"
+                    },
+                    {
+                        "id": "rings",
+                        "name": "rings",
+                        "href": "#rings"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "sunglasses",
+                    "name": "sunglasses",
+                    "href": "#sunglasses"
+                },
+                "child_categories": [
+                    {
+                        "id": "men's_sunglasses",
+                        "name": "men's sunglasses",
+                        "href": "#men's_sunglasses"
+                    },
+                    {
+                        "id": "women's_sunglasses",
+                        "name": "women's sunglasses",
+                        "href": "#women's_sunglasses"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "men's_boy'Fashion",
+            "name": "Men's & Boy'Fashion"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "Clothing",
+                    "name": "Clothing",
+                    "href": "#Clothing"
+                },
+                "child_categories": [
+                    {
+                        "id": "T-shirts",
+                        "name": "T-shirts",
+                        "href": "#T-shirts"
+                    },
+                    {
+                        "id": "jeans",
+                        "name": "jeans",
+                        "href": "#jeans"
+                    },
+                    {
+                        "id": "Shirts",
+                        "name": "Shirts",
+                        "href": "#Shirts"
+                    },
+                    {
+                        "id": "joggeers_sweats",
+                        "name": "Joggeers & Sweats",
+                        "href": "#joggeers_sweats"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "shoes",
+                    "name": "shoes",
+                    "href": "#shoes"
+                },
+                "child_categories": [
+                    {
+                        "id": "Sneakers",
+                        "name": "Sneakers",
+                        "href": "#Sneakers"
+                    },
+                    {
+                        "id": "formal_shoes",
+                        "name": "Formal shoes",
+                        "href": "#formal_shoes"
+                    },
+                    {
+                        "id": "sandals",
+                        "name": "sandals",
+                        "href": "#sandals"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "muslim_wear",
+                    "name": "muslim wear",
+                    "href": "#muslim_wear"
+                },
+                "child_categories": [
+                    {
+                        "id": "jubbahs",
+                        "name": "jubbahs",
+                        "href": "#jubbahs"
+                    },
+                    {
+                        "id": "kurtas_panjabis",
+                        "name": "kurtas and panjabis",
+                        "href": "#kurtas_panjabis"
+                    },
+                    {
+                        "id": "accessories",
+                        "name": "Accessories",
+                        "href": "#accessories"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "watches",
+                    "name": "watches",
+                    "href": "#watches"
+                },
+                "child_categories": [
+                    {
+                        "id": "fashion",
+                        "name": "fashion",
+                        "href": "#fashion"
+                    },
+                    {
+                        "id": "sports",
+                        "name": "sports",
+                        "href": "#sports"
+                    },
+                    {
+                        "id": "accessories",
+                        "name": "accessories",
+                        "href": "#accessories"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "eyewear",
+                    "name": "eyewear",
+                    "href": "#eyewear"
+                },
+                "child_categories": [
+                    {
+                        "id": "eyeglasses",
+                        "name": "Eyeglasses",
+                        "href": "#eyeglasses"
+                    },
+                    {
+                        "id": "sunglasses",
+                        "name": "sunglasses",
+                        "href": "#sunglasses"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "mother_baby",
+            "name": "Mother & Baby"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "diapering_potty",
+                    "name": "diapering & potty",
+                    "href": "#diapering_potty"
+                },
+                "child_categories": [
+                    {
+                        "id": "diapers",
+                        "name": "diapers",
+                        "href": "#diapers"
+                    },
+                    {
+                        "id": "cloth diapers",
+                        "name": "cloth diapers",
+                        "href": "#cloth diapers"
+                    },
+                    {
+                        "id": "potty_chair_seat",
+                        "name": "potty chair & seat",
+                        "href": "#potty_chair_seat"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "feeding",
+                    "name": "feeding",
+                    "href": "#feeding"
+                },
+                "child_categories": [
+                    {
+                        "id": "baby_toddler_foods",
+                        "name": "baby & toddler foods",
+                        "href": "#baby_toddler_foods"
+                    },
+                    {
+                        "id": "bottle_feeding",
+                        "name": "bottle feeding",
+                        "href": "#bottle_feeding"
+                    },
+                    {
+                        "id": "feeding_chairs_seats",
+                        "name": "feeding chairs & seats",
+                        "href": "#feeding_chairs_seats"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "baby_care_gift",
+                    "name": "baby care & gift",
+                    "href": "#baby_care_gift"
+                },
+                "child_categories": [
+                    {
+                        "id": "shampoo_conditioners",
+                        "name": "shampoo & conditioners",
+                        "href": "#shampoo_conditioners"
+                    },
+                    {
+                        "id": "bathing_tubs_toys",
+                        "name": "bathing tubs & toys",
+                        "href": "#bathing_tubs_toys"
+                    },
+                    {
+                        "id": "lotions_creams",
+                        "name": "lotions & creams",
+                        "href": "#lotions_creams"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "kids toys",
+                    "name": "kids toys",
+                    "href": "#kids toys"
+                },
+                "child_categories": [
+                    {
+                        "id": "action_figures_collectibles",
+                        "name": "action figures & collectibles",
+                        "href": "#action_figures_collectibles"
+                    },
+                    {
+                        "id": "doll_accessories",
+                        "name": "doll & accessories",
+                        "href": "#doll_accessories"
+                    },
+                    {
+                        "id": "electronic_toys",
+                        "name": "electronic toys",
+                        "href": "#electronic_toys"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "sports_outdoor_play",
+                    "name": "sports & outdoor play",
+                    "href": "#sports_outdoor_play"
+                },
+                "child_categories": [
+                    {
+                        "id": "kids bikes_accessories",
+                        "name": "kids bikes & accessories",
+                        "href": "#kids bikes_accessories"
+                    },
+                    {
+                        "id": "sports_play",
+                        "name": "sports play",
+                        "href": "#sports_play"
+                    },
+                    {
+                        "id": "kids_tricycles",
+                        "name": "kids tricycles",
+                        "href": "#kids_tricycles"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "electronics_device",
+            "name": "Electronics Device"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "smartphones",
+                    "name": "smartphones",
+                    "href": "#smartphones"
+                },
+                "child_categories": [
+                    {
+                        "id": "apple_phones",
+                        "name": "apple phones",
+                        "href": "#apple_phones"
+                    },
+                    {
+                        "id": "samsung_phones",
+                        "name": "samsung phones",
+                        "href": "#samsung_phones"
+                    },
+                    {
+                        "id": "realme_phones",
+                        "name": "realme phones",
+                        "href": "#realme_phones"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "cameeras",
+                    "name": "cameeras",
+                    "href": "#cameeras"
+                },
+                "child_categories": [
+                    {
+                        "id": "canon",
+                        "name": "canon",
+                        "href": "#canon"
+                    },
+                    {
+                        "id": "dslr",
+                        "name": "dslr",
+                        "href": "#dslr"
+                    },
+                    {
+                        "id": "gopro",
+                        "name": "gopro",
+                        "href": "#gopro"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "audio_wearable",
+                    "name": "audio & wearable",
+                    "href": "#audio_wearable"
+                },
+                "child_categories": [
+                    {
+                        "id": "headphones_headsets",
+                        "name": "headphones & headsets",
+                        "href": "#headphones_headsets"
+                    },
+                    {
+                        "id": "bluetooth_speaker",
+                        "name": "bluetooth speaker",
+                        "href": "#bluetooth_speaker"
+                    },
+                    {
+                        "id": "smartwatches",
+                        "name": "smartwatches",
+                        "href": "#smartwatches"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "laptop_desktops",
+                    "name": "laptop & desktops",
+                    "href": "#laptop_desktops"
+                },
+                "child_categories": [
+                    {
+                        "id": "canon",
+                        "name": "canon",
+                        "href": "#canon"
+                    },
+                    {
+                        "id": "dslr",
+                        "name": "dslr",
+                        "href": "#dslr"
+                    },
+                    {
+                        "id": "gopro",
+                        "name": "gopro",
+                        "href": "#gopro"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "laptop_desktops",
+                    "name": "laptop & desktops",
+                    "href": "#laptop_desktops"
+                },
+                "child_categories": [
+                    {
+                        "id": "apple",
+                        "name": "apple",
+                        "href": "#apple"
+                    },
+                    {
+                        "id": "hp",
+                        "name": "hp",
+                        "href": "#hp"
+                    },
+                    {
+                        "id": "lenovo",
+                        "name": "lenovo",
+                        "href": "#lenovo"
+                    },
+                    {
+                        "id": "all_in_one_desltop",
+                        "name": "all in one desltop",
+                        "href": "#all_in_one_desltop"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "tv_home_appliances",
+            "name": "tv & home appliances"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "television",
+                    "name": "television",
+                    "href": "#television"
+                },
+                "child_categories": [
+                    {
+                        "id": "smart_television",
+                        "name": "smart television",
+                        "href": "#smart_television"
+                    },
+                    {
+                        "id": "led_televisions",
+                        "name": "led televisions",
+                        "href": "#led_televisions"
+                    },
+                    {
+                        "id": "oled_televisions",
+                        "name": "oled televisions",
+                        "href": "#oled_televisions"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "tv_video_device",
+                    "name": "tv & video device",
+                    "href": "#tv_video_device"
+                },
+                "child_categories": [
+                    {
+                        "id": "tv_receivers",
+                        "name": "tv receivers",
+                        "href": "#tv_receivers"
+                    },
+                    {
+                        "id": "tv_remote_controllers",
+                        "name": "tv remote controllers",
+                        "href": "#tv_remote_controllers"
+                    },
+                    {
+                        "id": "cables",
+                        "name": "cables",
+                        "href": "#cables"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "kitchen_appliances",
+                    "name": "kitchen appliances",
+                    "href": "#kitchen_appliances"
+                },
+                "child_categories": [
+                    {
+                        "id": "cooktops_ranges",
+                        "name": "cooktops & ranges",
+                        "href": "#cooktops_ranges"
+                    },
+                    {
+                        "id": "ovens",
+                        "name": "ovens",
+                        "href": "#ovens"
+                    },
+                    {
+                        "id": "deep_freezer",
+                        "name": "deep freezer",
+                        "href": "#deep_freezer"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "refrigerators",
+                    "name": "refrigerators",
+                    "href": "#refrigerators"
+                },
+                "child_categories": [
+                    {
+                        "id": "walton",
+                        "name": "walton",
+                        "href": "#walton"
+                    },
+                    {
+                        "id": "minister",
+                        "name": "minister",
+                        "href": "#minister"
+                    },
+                    {
+                        "id": "singer",
+                        "name": "singer",
+                        "href": "#singer"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "fans",
+                    "name": "fans",
+                    "href": "#fans"
+                },
+                "child_categories": [
+                    {
+                        "id": "ceiling_fans",
+                        "name": "ceiling fans",
+                        "href": "#ceiling_fans"
+                    },
+                    {
+                        "id": "mini_fans",
+                        "name": "mini fans",
+                        "href": "#mini_fans"
+                    },
+                    {
+                        "id": "stand_fan",
+                        "name": "stand fan",
+                        "href": "#stand_fan"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "electronic_accessories",
+            "name": "Electronic Accessories"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "audio",
+                    "name": "audio",
+                    "href": "#audio"
+                },
+                "child_categories": [
+                    {
+                        "id": "headphones_headsets",
+                        "name": "headphones & headsets",
+                        "href": "#headphones_headsets"
+                    },
+                    {
+                        "id": "wireless_earbuds",
+                        "name": "wireless earbuds",
+                        "href": "#wireless_earbuds"
+                    },
+                    {
+                        "id": "smart_speaker",
+                        "name": "smart speaker",
+                        "href": "#smart_speaker"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "wearable",
+                    "name": "wearable",
+                    "href": "#wearable"
+                },
+                "child_categories": [
+                    {
+                        "id": "smart_watches",
+                        "name": "smart watches",
+                        "href": "#smart_watches"
+                    },
+                    {
+                        "id": "fitness_activity_trackers",
+                        "name": "fitness & activity trackers",
+                        "href": "#fitness_activity_trackers"
+                    },
+                    {
+                        "id": "virtual_reality",
+                        "name": "virtual reality",
+                        "href": "#virtual_reality"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "computer_accessories",
+                    "name": "computer accessories",
+                    "href": "#computer_accessories"
+                },
+                "child_categories": [
+                    {
+                        "id": "monitors",
+                        "name": "monitors",
+                        "href": "#monitors"
+                    },
+                    {
+                        "id": "mice",
+                        "name": "mice",
+                        "href": "#mice"
+                    },
+                    {
+                        "id": "keyboards",
+                        "name": "keyboards",
+                        "href": "#keyboards"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "storage",
+                    "name": "storage",
+                    "href": "#storage"
+                },
+                "child_categories": [
+                    {
+                        "id": "external_hard_drives",
+                        "name": "external hard drives",
+                        "href": "#external_hard_drives"
+                    },
+                    {
+                        "id": "internal_hard_drives",
+                        "name": "internal hard drives",
+                        "href": "#internal_hard_drives"
+                    },
+                    {
+                        "id": "flash_drives",
+                        "name": "flash drives",
+                        "href": "#flash_drives"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "camera_accessories",
+                    "name": "camera accessories",
+                    "href": "#camera_accessories"
+                },
+                "child_categories": [
+                    {
+                        "id": "sports_action_camera_accessories",
+                        "name": "sports & action camera accessories",
+                        "href": "#sports_action_camera_accessories"
+                    },
+                    {
+                        "id": "lighting_studio_equipment",
+                        "name": "lighting & studio equipment",
+                        "href": "#lighting_studio_equipment"
+                    },
+                    {
+                        "id": "memory_card",
+                        "name": "memory card",
+                        "href": "#memory_card"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "groceries",
+            "name": "Groceries"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "fruits_meat_frozen",
+                    "name": "fruits,meat & frozen",
+                    "href": "#fruits_meat_frozen"
+                },
+                "child_categories": [
+                    {
+                        "id": "fruits",
+                        "name": "fruits",
+                        "href": "#fruits"
+                    },
+                    {
+                        "id": "vegetables",
+                        "name": "vegetables",
+                        "href": "#vegetables"
+                    },
+                    {
+                        "id": "dried_fish",
+                        "name": "dried fish",
+                        "href": "#dried_fish"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "cooking_ingredients",
+                    "name": "cooking ingredients",
+                    "href": "#cooking_ingredients"
+                },
+                "child_categories": [
+                    {
+                        "id": "sugar",
+                        "name": "sugar",
+                        "href": "#sugar"
+                    },
+                    {
+                        "id": "oil",
+                        "name": "oil",
+                        "href": "#oil"
+                    },
+                    {
+                        "id": "rice",
+                        "name": "rice",
+                        "href": "#rice"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "snacks_beverages",
+                    "name": "snacks & beverages",
+                    "href": "#snacks_beverages"
+                },
+                "child_categories": [
+                    {
+                        "id": "noodles",
+                        "name": "noodles",
+                        "href": "#noodles"
+                    },
+                    {
+                        "id": "dry_fruits",
+                        "name": "dry fruits",
+                        "href": "#dry_fruits"
+                    },
+                    {
+                        "id": "coffee",
+                        "name": "coffee",
+                        "href": "#coffee"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "dairy_eggs",
+                    "name": "dairy & eggs",
+                    "href": "#dairy_eggs"
+                },
+                "child_categories": [
+                    {
+                        "id": "milk_powder",
+                        "name": "milk powder",
+                        "href": "#milk_powder"
+                    },
+                    {
+                        "id": "condensed_milk",
+                        "name": "condensed milk",
+                        "href": "#condensed_milk"
+                    },
+                    {
+                        "id": "creame",
+                        "name": "creame",
+                        "href": "#creame"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "chocolates_candy",
+                    "name": "chocolates & candy",
+                    "href": "#chocolates_candy"
+                },
+                "child_categories": [
+                    {
+                        "id": "chocolate",
+                        "name": "chocolate",
+                        "href": "#chocolate"
+                    },
+                    {
+                        "id": "candy",
+                        "name": "candy",
+                        "href": "#candy"
+                    },
+                    {
+                        "id": "chewing_gum_mints",
+                        "name": "chewing gum & mints",
+                        "href": "#chewing_gum_mints"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "home_lifestyle",
+            "name": "Home & Lifestyle"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "bedding",
+                    "name": "bedding",
+                    "href": "#bedding"
+                },
+                "child_categories": [
+                    {
+                        "id": "towel_rails_warmers",
+                        "name": "towel rails & warmers",
+                        "href": "#towel_rails_warmers"
+                    },
+                    {
+                        "id": "bed_runners_skirts",
+                        "name": "bed runners & skirts",
+                        "href": "#bed_runners_skirts"
+                    },
+                    {
+                        "id": "bed_sheets",
+                        "name": "bed sheets",
+                        "href": "#bed_sheets"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "furniture",
+                    "name": "furniture",
+                    "href": "#furniture"
+                },
+                "child_categories": [
+                    {
+                        "id": "bedroom_furniture",
+                        "name": "bedroom furniture",
+                        "href": "#bedroom_furniture"
+                    },
+                    {
+                        "id": "home_office_furniture",
+                        "name": "home office furniture",
+                        "href": "#home_office_furniture"
+                    },
+                    {
+                        "id": "kitchen_dining_furniture",
+                        "name": "kitchen & dining furniture",
+                        "href": "#kitchen_dining_furniture"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "cleaning",
+                    "name": "cleaning",
+                    "href": "#cleaning"
+                },
+                "child_categories": [
+                    {
+                        "id": "brooms_mops_sweepers",
+                        "name": "brooms,mops & sweepers",
+                        "href": "#brooms_mops_sweepers"
+                    },
+                    {
+                        "id": "brushes_sponges_wipes",
+                        "name": "brushes,sponges & wipes",
+                        "href": "#brushes_sponges_wipes"
+                    },
+                    {
+                        "id": "cleaning_buckets_tubs",
+                        "name": "cleaning buckets & tubs",
+                        "href": "#cleaning_buckets_tubs"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "tools_diy_outdoor",
+                    "name": "tools,diy & outdoor",
+                    "href": "#tools_diy_outdoor"
+                },
+                "child_categories": [
+                    {
+                        "id": "outdoor",
+                        "name": "outdoor",
+                        "href": "#outdoor"
+                    },
+                    {
+                        "id": "electrical",
+                        "name": "electrical",
+                        "href": "#electrical"
+                    },
+                    {
+                        "id": "power tools",
+                        "name": "power tools",
+                        "href": "#power tools"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "sports_outdoors",
+            "name": "Sports & Outdoors"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "exercise_fitness",
+                    "name": "exercise & fitness",
+                    "href": "#exercise_fitness"
+                },
+                "child_categories": [
+                    {
+                        "id": "treadmills",
+                        "name": "treadmills",
+                        "href": "#treadmills"
+                    },
+                    {
+                        "id": "fitness_accessories",
+                        "name": "fitness accessories",
+                        "href": "#fitness_accessories"
+                    },
+                    {
+                        "id": "dumbbells_weight",
+                        "name": "dumbbells & weight",
+                        "href": "#dumbbells_weight"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "boxing_martial_arts",
+                    "name": "boxing & martial arts",
+                    "href": "#boxing_martial_arts"
+                },
+                "child_categories": [
+                    {
+                        "id": "boxing_gloves",
+                        "name": "boxing gloves",
+                        "href": "#boxing_gloves"
+                    },
+                    {
+                        "id": "boxing_protective_gear",
+                        "name": "boxing protective gear",
+                        "href": "#boxing_protective_gear"
+                    },
+                    {
+                        "id": "martial_art_equipment",
+                        "name": "martial art equipment",
+                        "href": "#martial_art_equipment"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "shoes_clothing",
+                    "name": "shoes & clothing",
+                    "href": "#shoes_clothing"
+                },
+                "child_categories": [
+                    {
+                        "id": "clothing",
+                        "name": "clothing",
+                        "href": "#clothing"
+                    },
+                    {
+                        "id": "running_shoes",
+                        "name": "running shoes",
+                        "href": "#running_shoes"
+                    },
+                    {
+                        "id": "accessories",
+                        "name": "accessories",
+                        "href": "#accessories"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "camping_hiking",
+                    "name": "camping & hiking",
+                    "href": "#camping_hiking"
+                },
+                "child_categories": [
+                    {
+                        "id": "tents",
+                        "name": "tents",
+                        "href": "#tents"
+                    },
+                    {
+                        "id": "sleeping_bags",
+                        "name": "sleeping bags",
+                        "href": "#sleeping_bags"
+                    },
+                    {
+                        "id": "hiking_backpacks",
+                        "name": "hiking backpacks",
+                        "href": "#hiking_backpacks"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "team_sports",
+                    "name": "team sports",
+                    "href": "#team_sports"
+                },
+                "child_categories": [
+                    {
+                        "id": "football",
+                        "name": "football",
+                        "href": "#football"
+                    },
+                    {
+                        "id": "cricket",
+                        "name": "cricket",
+                        "href": "#cricket"
+                    },
+                    {
+                        "id": "basketball",
+                        "name": "basketball",
+                        "href": "#basketball"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "category": {
+            "id": "automotive _motorbike",
+            "name": "Automotive & Motorbike"
+        },
+        "sub_categories": [
+            {
+                "sub_category": {
+                    "id": "oil_fluids",
+                    "name": "oil & fluids",
+                    "href": "#oil_fluids"
+                },
+                "child_categories": [
+                    {
+                        "id": "oils",
+                        "name": "oils",
+                        "href": "#oils"
+                    },
+                    {
+                        "id": "cleaners",
+                        "name": "cleaners",
+                        "href": "#cleaners"
+                    },
+                    {
+                        "id": "greases_lubricants",
+                        "name": "greases & lubricants",
+                        "href": "#greases_lubricants"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "car_parts_spares",
+                    "name": "car parts & spares",
+                    "href": "#car_parts_spares"
+                },
+                "child_categories": [
+                    {
+                        "id": "engine_parts",
+                        "name": "engine parts",
+                        "href": "#engine_parts"
+                    },
+                    {
+                        "id": "starters_parts",
+                        "name": "starters & parts",
+                        "href": "#starters_parts"
+                    },
+                    {
+                        "id": "lighting_electrical",
+                        "name": "lighting & electrical",
+                        "href": "#lighting_electrical"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "motorcycle_parts_spares",
+                    "name": "motorcycle parts & spares",
+                    "href": "#motorcycle_parts_spares"
+                },
+                "child_categories": [
+                    {
+                        "id": "decals_emblems",
+                        "name": "decals & emblems",
+                        "href": "#decals_emblems"
+                    },
+                    {
+                        "id": "body_frame",
+                        "name": "body & frame",
+                        "href": "#body_frame"
+                    },
+                    {
+                        "id": "drivetrain_transmission",
+                        "name": "drivetrain & transmission",
+                        "href": "#drivetrain_transmission"
+                    }
+                ]
+            },
+            {
+                "sub_category": {
+                    "id": "vehicle_care",
+                    "name": "vehicle care",
+                    "href": "#vehicle_care"
+                },
+                "child_categories": [
+                    {
+                        "id": "cleaners_kits",
+                        "name": "cleaners and kits",
+                        "href": "#cleaners_kits"
+                    },
+                    {
+                        "id": "car_polishes_waxes",
+                        "name": "car polishes & waxes",
+                        "href": "#car_polishes_waxes"
+                    },
+                    {
+                        "id": "paints_primers",
+                        "name": "paints & primers",
+                        "href": "#paints_primers"
+                    }
+                ]
+            }
+        ]
+    }
+]
