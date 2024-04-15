@@ -2,7 +2,8 @@
     {
         "category": {
             "id": "women's_girls'fashion",
-            "name": "Women's & Girls'Fashion"
+            "name": "Women's & Girls'Fashion",
+            "img": "https://i.ibb.co/6vgmxnH/dress-12071256.png"
         },
         "sub_categories": [
             {
@@ -213,7 +214,8 @@
     {
         "category": {
             "id": "health_beauty",
-            "name": "Health & Beauty"
+            "name": "Health & Beauty",
+            "img": "https://i.ibb.co/tJfKvSC/fashion-15029657.png"
         },
         "sub_categories": [
             {
@@ -543,7 +545,8 @@
     {
         "category": {
             "id": "watches_bags_jewellery",
-            "name": "Watches,Bags,Jewellery"
+            "name": "Watches,Bags,Jewellery",
+            "img": "https://i.ibb.co/tJ2QWy7/clock-12935825.png"
         },
         "sub_categories": [
             {
@@ -906,7 +909,8 @@
     {
         "category": {
             "id": "men's_boy'Fashion",
-            "name": "Men's & Boy'Fashion"
+            "name": "Men's & Boy'Fashion",
+            "img": "https://i.ibb.co/q0jPYGz/shirt-518935.png"
         },
         "sub_categories": [
             {
@@ -1034,7 +1038,8 @@
     {
         "category": {
             "id": "mother_baby",
-            "name": "Mother & Baby"
+            "name": "Mother & Baby",
+            "img": "https://i.ibb.co/T47bT9w/mother-3790570.png"
         },
         "sub_categories": [
             {
@@ -1162,7 +1167,8 @@
     {
         "category": {
             "id": "electronics_device",
-            "name": "Electronics Device"
+            "name": "Electronics Device",
+            "img": "https://i.ibb.co/Rj4KNY0/camera-4073377.png"
         },
         "sub_categories": [
             {
@@ -1295,7 +1301,8 @@
     {
         "category": {
             "id": "tv_home_appliances",
-            "name": "tv & home appliances"
+            "name": "tv & home appliances",
+            "img": "https://i.ibb.co/y8y4cYG/fruit-12788027.png"
         },
         "sub_categories": [
             {
@@ -1423,7 +1430,8 @@
     {
         "category": {
             "id": "electronic_accessories",
-            "name": "Electronic Accessories"
+            "name": "Electronic Accessories",
+            "img": "https://i.ibb.co/F5t0J09/grocery-1261052.png"
         },
         "sub_categories": [
             {
@@ -1551,7 +1559,8 @@
     {
         "category": {
             "id": "groceries",
-            "name": "Groceries"
+            "name": "Groceries",
+            "img": "https://i.ibb.co/p0dbd8j/sofa-4564774.png"
         },
         "sub_categories": [
             {
@@ -1679,7 +1688,8 @@
     {
         "category": {
             "id": "home_lifestyle",
-            "name": "Home & Lifestyle"
+            "name": "Home & Lifestyle",
+            "img": "https://i.ibb.co/0tF51gb/basketball-11151282.png"
         },
         "sub_categories": [
             {
@@ -1783,7 +1793,8 @@
     {
         "category": {
             "id": "sports_outdoors",
-            "name": "Sports & Outdoors"
+            "name": "Sports & Outdoors",
+            "img": "https://i.ibb.co/9ZkdTGF/rental-car-8879898.png"
         },
         "sub_categories": [
             {
@@ -1911,7 +1922,8 @@
     {
         "category": {
             "id": "automotive _motorbike",
-            "name": "Automotive & Motorbike"
+            "name": "Automotive & Motorbike",
+            "img": "https://i.ibb.co/w7JKQ5N/usb-5697727.png"
         },
         "sub_categories": [
             {
