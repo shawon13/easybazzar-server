@@ -696,7 +696,7 @@
                 "child_categories": [
                     {
                         "id": "men's_sunglasses",
-                        "child_namemen's sunglasses",
+                        "child_name": "men's sunglasses",
                         "href": "#men's_sunglasses"
                     },
                     {
@@ -787,7 +787,7 @@
                     },
                     {
                         "id": "accessories",
-                        "child_nameAccessories",
+                        "child_name": "Accessories",
                         "href": "#accessories"
                     }
                 ]
