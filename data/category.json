@@ -268,19 +268,9 @@
                         "href": "#women's_perfume"
                     },
                     {
-                        "id": "women's_body_spray",
-                        "child_name": "women's body spray",
-                        "href": "#women's_body_spray"
-                    },
-                    {
                         "id": "men's_perfume",
                         "child_name": "men's perfume",
                         "href": "#men's_perfume"
-                    },
-                    {
-                        "id": "men's_body_spray",
-                        "child_name": "men's body spray",
-                        "href": "#men's_body_spray"
                     },
                     {
                         "id": "attar",
@@ -540,30 +530,6 @@
             },
             {
                 "sub_category": {
-                    "id": "kids_bags",
-                    "sub_name": "kids bags",
-                    "href": "#kids_bags"
-                },
-                "child_categories": [
-                    {
-                        "id": "backpacks",
-                        "child_name": "backpacks",
-                        "href": "#backpacks"
-                    },
-                    {
-                        "id": "bags",
-                        "child_name": "bags",
-                        "href": "#bags"
-                    },
-                    {
-                        "id": "school_bags_backpack",
-                        "child_name": "school bags & backpack",
-                        "href": "#school_bags_backpack"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
                     "id": "men's_watches",
                     "sub_name": "men's watches",
                     "href": "#men's_watches"
@@ -647,11 +613,6 @@
                         "href": "#necklaces"
                     },
                     {
-                        "id": "earrings",
-                        "child_name": "earrings",
-                        "href": "#earrings"
-                    },
-                    {
                         "id": "rings",
                         "child_name": "rings",
                         "href": "#rings"
@@ -674,11 +635,6 @@
                         "id": "necklaces",
                         "child_name": "necklaces",
                         "href": "#necklaces"
-                    },
-                    {
-                        "id": "earrings",
-                        "child_name": "earrings",
-                        "href": "#earrings"
                     },
                     {
                         "id": "rings",
@@ -736,11 +692,6 @@
                         "id": "Shirts",
                         "child_name": "Shirts",
                         "href": "#Shirts"
-                    },
-                    {
-                        "id": "joggeers_sweats",
-                        "child_name": "Joggeers & Sweats",
-                        "href": "#joggeers_sweats"
                     }
                 ]
             },
@@ -1085,11 +1036,6 @@
                         "id": "hp",
                         "child_name": "hp",
                         "href": "#hp"
-                    },
-                    {
-                        "id": "lenovo",
-                        "child_name": "lenovo",
-                        "href": "#lenovo"
                     },
                     {
                         "id": "all_in_one_desltop",
