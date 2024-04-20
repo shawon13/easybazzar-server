@@ -125,54 +125,6 @@
                         "href": "#sneakers"
                     }
                 ]
-            },
-            {
-                "sub_category": {
-                    "id": "bags",
-                    "sub_name": "Bags",
-                    "href": "bags"
-                },
-                "child_categories": [
-                    {
-                        "id": "crossbody_shoulder Bags",
-                        "child_name": "Crossbody & shoulder Bags",
-                        "href": "#crossbody_shoulder Bags"
-                    },
-                    {
-                        "id": "backpacks",
-                        "child_name": "Backpacks",
-                        "href": "#backpacks"
-                    },
-                    {
-                        "id": "wallets",
-                        "child_name": "Wallets",
-                        "href": "#wallets"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "watches",
-                    "sub_name": "Watches",
-                    "href": "watches"
-                },
-                "child_categories": [
-                    {
-                        "id": "casual",
-                        "child_name": "Casual",
-                        "href": "#casual"
-                    },
-                    {
-                        "id": "fashion",
-                        "child_name": "fashion",
-                        "href": "#fashion"
-                    },
-                    {
-                        "id": "accessories",
-                        "child_name": "accessories",
-                        "href": "#accessories"
-                    }
-                ]
             }
         ]
     },
@@ -302,83 +254,6 @@
                         "href": "#foot care"
                     }
                 ]
-            },
-            {
-                "sub_category": {
-                    "id": "bath_body",
-                    "sub_name": "bath & body",
-                    "href": "#bath_body"
-                },
-                "child_categories": [
-                    {
-                        "id": "body_massage_oils",
-                        "child_name": "body & massage oils",
-                        "href": "#body_massage_oils"
-                    },
-                    {
-                        "id": "soaps_body_wash",
-                        "child_name": "soaps & body wash",
-                        "href": "#soaps_body_wash"
-                    },
-                    {
-                        "id": "hair_removal",
-                        "child_name": "hair removal",
-                        "href": "#hair_removal"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "personal_care",
-                    "sub_name": "personal care",
-                    "href": "#personal_care"
-                },
-                "child_categories": [
-                    {
-                        "id": "toothpaste",
-                        "child_name": "toothpaste",
-                        "href": "#toothpaste"
-                    },
-                    {
-                        "id": "toothbrush",
-                        "child_name": "toothbrush",
-                        "href": "#toothbrush"
-                    },
-                    {
-                        "id": "sanitary_napkins",
-                        "child_name": "sanitary napkins",
-                        "href": "#sanitary_napkins"
-                    },
-                    {
-                        "id": "ear_care",
-                        "child_name": "ear care",
-                        "href": "#ear_care"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "men's_cate",
-                    "sub_name": "men's cate",
-                    "href": "#men's_cate"
-                },
-                "child_categories": [
-                    {
-                        "id": "shaving_grooming",
-                        "child_name": "shaving & grooming",
-                        "href": "#shaving_grooming"
-                    },
-                    {
-                        "id": "hair_care",
-                        "child_name": "hair care",
-                        "href": "#hair_care"
-                    },
-                    {
-                        "id": "sport_nutrition",
-                        "child_name": "sport nutrition",
-                        "href": "#sport_nutrition"
-                    }
-                ]
             }
         ]
     },
@@ -410,68 +285,6 @@
                         "id": "school_bags_backpack",
                         "child_name": "school bags & backpack",
                         "href": "#school_bags_backpack"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "laptop_bags_cases",
-                    "sub_name": "laptop bags & cases",
-                    "href": "#laptop_bags_cases"
-                },
-                "child_categories": [
-                    {
-                        "id": "backpacks",
-                        "child_name": "backpacks",
-                        "href": "#backpacks"
-                    },
-                    {
-                        "id": "briefcases",
-                        "child_name": "briefcases",
-                        "href": "#briefcases"
-                    },
-                    {
-                        "id": "laptop_cases",
-                        "child_name": "laptop cases",
-                        "href": "#laptop_cases"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "luggage",
-                    "sub_name": "luggage",
-                    "href": "#luggage"
-                },
-                "child_categories": [
-                    {
-                        "id": "carry-ons",
-                        "child_name": "carry-ons",
-                        "href": "#carry-ons"
-                    },
-                    {
-                        "id": "kids_luggage",
-                        "child_name": "kids luggage",
-                        "href": "#kids_luggage"
-                    },
-                    {
-                        "id": "luggage_sets",
-                        "child_name": "luggage sets",
-                        "href": "#luggage_sets"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "travel_bags",
-                    "sub_name": "travel bags",
-                    "href": "#travel_bags"
-                },
-                "child_categories": [
-                    {
-                        "id": "waist_packs",
-                        "child_name": "waist packs",
-                        "href": "#waist_packs"
                     }
                 ]
             },
@@ -578,25 +391,6 @@
             },
             {
                 "sub_category": {
-                    "id": "kids_watches",
-                    "sub_name": "kids watches",
-                    "href": "#kids_watches"
-                },
-                "child_categories": [
-                    {
-                        "id": "boys",
-                        "child_name": "boys",
-                        "href": "#boys"
-                    },
-                    {
-                        "id": "girls",
-                        "child_name": "girls",
-                        "href": "#girls"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
                     "id": "women's_jewellery",
                     "sub_name": "women's jewellery",
                     "href": "#women's_jewellery"
@@ -640,25 +434,6 @@
                         "id": "rings",
                         "child_name": "rings",
                         "href": "#rings"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "sunglasses",
-                    "sub_name": "sunglasses",
-                    "href": "#sunglasses"
-                },
-                "child_categories": [
-                    {
-                        "id": "men's_sunglasses",
-                        "child_name": "men's sunglasses",
-                        "href": "#men's_sunglasses"
-                    },
-                    {
-                        "id": "women's_sunglasses",
-                        "child_name": "women's sunglasses",
-                        "href": "#women's_sunglasses"
                     }
                 ]
             }
