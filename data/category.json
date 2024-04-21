@@ -50,11 +50,6 @@
                         "id": "hijabs",
                         "child_name": "Hijabs",
                         "href": "#hijabs"
-                    },
-                    {
-                        "id": "brooches",
-                        "child_name": "Brooches",
-                        "href": "#brooches"
                     }
                 ]
             },
@@ -69,11 +64,6 @@
                         "id": "dresses",
                         "child_name": "Dresses",
                         "href": "#dresses"
-                    },
-                    {
-                        "id": "tunics",
-                        "child_name": "Tunics",
-                        "href": "#tunics"
                     },
                     {
                         "id": "t-shirts",
@@ -93,11 +83,6 @@
                         "id": "heels",
                         "child_name": "Heels",
                         "href": "#heels"
-                    },
-                    {
-                        "id": "flats",
-                        "child_name": "Flats",
-                        "href": "#flats"
                     },
                     {
                         "id": "sneakers",
@@ -131,11 +116,6 @@
                         "id": "face_wash_cleansers",
                         "child_name": "face wash & cleansers",
                         "href": "#face_wash_cleansers"
-                    },
-                    {
-                        "id": "sunscreen_aftersun",
-                        "child_name": "sunscreen and aftersun",
-                        "href": "#sunscreen_aftersun"
                     }
                 ]
             },
@@ -155,11 +135,6 @@
                         "id": "makeup_accessories",
                         "child_name": "makeup accessories",
                         "href": "#makeup_accessories"
-                    },
-                    {
-                        "id": "makeup_removers",
-                        "child_name": "makeup removers",
-                        "href": "#makeup_removers"
                     }
                 ]
             },
@@ -179,11 +154,6 @@
                         "id": "men's_perfume",
                         "child_name": "men's perfume",
                         "href": "#men's_perfume"
-                    },
-                    {
-                        "id": "attar",
-                        "child_name": "attar",
-                        "href": "#attar"
                     }
                 ]
             }
@@ -329,11 +299,6 @@
                         "href": "#bracelets"
                     },
                     {
-                        "id": "necklaces",
-                        "child_name": "necklaces",
-                        "href": "#necklaces"
-                    },
-                    {
                         "id": "rings",
                         "child_name": "rings",
                         "href": "#rings"
@@ -457,11 +422,6 @@
                         "href": "#diapers"
                     },
                     {
-                        "id": "cloth diapers",
-                        "child_name": "cloth diapers",
-                        "href": "#cloth diapers"
-                    },
-                    {
                         "id": "potty_chair_seat",
                         "child_name": "potty chair & seat",
                         "href": "#potty_chair_seat"
@@ -505,11 +465,6 @@
                         "href": "#shampoo_conditioners"
                     },
                     {
-                        "id": "bathing_tubs_toys",
-                        "child_name": "bathing tubs & toys",
-                        "href": "#bathing_tubs_toys"
-                    },
-                    {
                         "id": "lotions_creams",
                         "child_name": "lotions & creams",
                         "href": "#lotions_creams"
@@ -541,11 +496,6 @@
                         "id": "samsung_phones",
                         "child_name": "samsung phones",
                         "href": "#samsung_phones"
-                    },
-                    {
-                        "id": "realme_phones",
-                        "child_name": "realme phones",
-                        "href": "#realme_phones"
                     }
                 ]
             },
@@ -560,11 +510,6 @@
                         "id": "canon",
                         "child_name": "canon",
                         "href": "#canon"
-                    },
-                    {
-                        "id": "dslr",
-                        "child_name": "dslr",
-                        "href": "#dslr"
                     },
                     {
                         "id": "gopro",
@@ -646,11 +591,6 @@
                         "id": "led_televisions",
                         "child_name": "led televisions",
                         "href": "#led_televisions"
-                    },
-                    {
-                        "id": "oled_televisions",
-                        "child_name": "oled televisions",
-                        "href": "#oled_televisions"
                     }
                 ]
             },
@@ -1061,11 +1001,6 @@
                 },
                 "child_categories": [
                     {
-                        "id": "decals_emblems",
-                        "child_name": "decals & emblems",
-                        "href": "/decals_emblems"
-                    },
-                    {
                         "id": "body_frame",
                         "child_name": "body & frame",
                         "href": "/body_frame"
@@ -1093,11 +1028,6 @@
                         "id": "car_polishes_waxes",
                         "child_name": "car polishes & waxes",
                         "href": "/car_polishes_waxes"
-                    },
-                    {
-                        "id": "paints_primers",
-                        "child_name": "paints & primers",
-                        "href": "/paints_primers"
                     }
                 ]
             }
