@@ -10,23 +10,27 @@
                 "sub_category": {
                     "id": "traditional_wear",
                     "sub_name": "Traditional Wear",
-                    "href": "/"
+                    "href": "/",
+                    "category_id": "traditional-wear"
                 },
                 "child_categories": [
                     {
                         "id": "shalwar_kameez",
                         "child_name": "Shalwar Kameez",
-                        "href": "#shalwar_kameez"
+                        "href": "#shalwar_kameez",
+                        "category_id": "traditional-wear"
                     },
                     {
                         "id": "sarees",
                         "child_name": "Sarees",
-                        "href": "#sarees"
+                        "href": "#sarees",
+                        "category_id": "traditional-wear"
                     },
                     {
                         "id": "kurtis",
                         "child_name": "Kurtis",
-                        "href": "#kurtis"
+                        "href": "#kurtis",
+                        "category_id": "traditional-id"
                     }
                 ]
             },
@@ -75,30 +79,6 @@
                         "id": "t-shirts",
                         "child_name": "T-shirts",
                         "href": "#t-shirts"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "innerwear",
-                    "sub_name": "Inner Wear",
-                    "href": "innerwear"
-                },
-                "child_categories": [
-                    {
-                        "id": "robes_bodysuits",
-                        "child_name": "Robes &  bodysuits",
-                        "href": "#robes_bodysuits"
-                    },
-                    {
-                        "id": "sleep_loungewear",
-                        "child_name": "Sleep & Loungewear",
-                        "href": "#sleep_loungewear"
-                    },
-                    {
-                        "id": "tank_tops",
-                        "child_name": "Tank Tops",
-                        "href": "#tank_tops"
                     }
                 ]
             },
@@ -161,30 +141,6 @@
             },
             {
                 "sub_category": {
-                    "id": "hair_care",
-                    "sub_name": "hair care",
-                    "href": "#hair_care"
-                },
-                "child_categories": [
-                    {
-                        "id": "hair_oils",
-                        "child_name": "hair oils",
-                        "href": "#hair_oils"
-                    },
-                    {
-                        "id": "hair_treatments",
-                        "child_name": "hair treatments",
-                        "href": "#hair_treatments"
-                    },
-                    {
-                        "id": "shampoo",
-                        "child_name": "shampoo",
-                        "href": "#shampoo"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
                     "id": "makeup",
                     "sub_name": "makeup",
                     "href": "#makeup"
@@ -230,30 +186,6 @@
                         "href": "#attar"
                     }
                 ]
-            },
-            {
-                "sub_category": {
-                    "id": "beauty_tools",
-                    "sub_name": "beauty tools",
-                    "href": "#beauty_tools"
-                },
-                "child_categories": [
-                    {
-                        "id": "skin_care_tools",
-                        "child_name": "skin care tools",
-                        "href": "#skin_care_tools"
-                    },
-                    {
-                        "id": "hair_styling_appliances",
-                        "child_name": "hair styling appliances",
-                        "href": "#hair_styling_appliances"
-                    },
-                    {
-                        "id": "foot care",
-                        "child_name": "foot care",
-                        "href": "#foot care"
-                    }
-                ]
             }
         ]
     },
@@ -264,30 +196,6 @@
             "img": "https://i.ibb.co/tJ2QWy7/clock-12935825.png"
         },
         "sub_categories": [
-            {
-                "sub_category": {
-                    "id": "kids_bags",
-                    "sub_name": "kids bags",
-                    "href": "#kids_bags"
-                },
-                "child_categories": [
-                    {
-                        "id": "backpacks",
-                        "child_name": "backpacks",
-                        "href": "#backpacks"
-                    },
-                    {
-                        "id": "bags",
-                        "child_name": "bags",
-                        "href": "#bags"
-                    },
-                    {
-                        "id": "school_bags_backpack",
-                        "child_name": "school bags & backpack",
-                        "href": "#school_bags_backpack"
-                    }
-                ]
-            },
             {
                 "sub_category": {
                     "id": "men's_bags",
@@ -304,11 +212,6 @@
                         "id": "business_bags",
                         "child_name": "business bags",
                         "href": "#business_bags"
-                    },
-                    {
-                        "id": "tote_bags",
-                        "child_name": "tote bags",
-                        "href": "#tote_bags"
                     },
                     {
                         "id": "wallets_accessories",
@@ -510,35 +413,6 @@
                         "id": "kurtas_panjabis",
                         "child_name": "kurtas and panjabis",
                         "href": "#kurtas_panjabis"
-                    },
-                    {
-                        "id": "accessories",
-                        "child_name": "Accessories",
-                        "href": "#accessories"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "watches",
-                    "sub_name": "watches",
-                    "href": "#watches"
-                },
-                "child_categories": [
-                    {
-                        "id": "fashion",
-                        "child_name": "fashion",
-                        "href": "#fashion"
-                    },
-                    {
-                        "id": "sports",
-                        "child_name": "sports",
-                        "href": "#sports"
-                    },
-                    {
-                        "id": "accessories",
-                        "child_name": "accessories",
-                        "href": "#accessories"
                     }
                 ]
             },
@@ -641,54 +515,6 @@
                         "href": "#lotions_creams"
                     }
                 ]
-            },
-            {
-                "sub_category": {
-                    "id": "kids toys",
-                    "sub_name": "kids toys",
-                    "href": "#kids toys"
-                },
-                "child_categories": [
-                    {
-                        "id": "action_figures_collectibles",
-                        "child_name": "action figures & collectibles",
-                        "href": "#action_figures_collectibles"
-                    },
-                    {
-                        "id": "doll_accessories",
-                        "child_name": "doll & accessories",
-                        "href": "#doll_accessories"
-                    },
-                    {
-                        "id": "electronic_toys",
-                        "child_name": "electronic toys",
-                        "href": "#electronic_toys"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "sports_outdoor_play",
-                    "sub_name": "sports & outdoor play",
-                    "href": "#sports_outdoor_play"
-                },
-                "child_categories": [
-                    {
-                        "id": "kids bikes_accessories",
-                        "child_name": "kids bikes & accessories",
-                        "href": "#kids bikes_accessories"
-                    },
-                    {
-                        "id": "sports_play",
-                        "child_name": "sports play",
-                        "href": "#sports_play"
-                    },
-                    {
-                        "id": "kids_tricycles",
-                        "child_name": "kids tricycles",
-                        "href": "#kids_tricycles"
-                    }
-                ]
             }
         ]
     },
@@ -779,30 +605,6 @@
                 },
                 "child_categories": [
                     {
-                        "id": "canon",
-                        "child_name": "canon",
-                        "href": "#canon"
-                    },
-                    {
-                        "id": "dslr",
-                        "child_name": "dslr",
-                        "href": "#dslr"
-                    },
-                    {
-                        "id": "gopro",
-                        "child_name": "gopro",
-                        "href": "#gopro"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "laptop_desktops",
-                    "sub_name": "laptop & desktops",
-                    "href": "#laptop_desktops"
-                },
-                "child_categories": [
-                    {
                         "id": "apple",
                         "child_name": "apple",
                         "href": "#apple"
@@ -854,30 +656,6 @@
             },
             {
                 "sub_category": {
-                    "id": "tv_video_device",
-                    "sub_name": "tv & video device",
-                    "href": "#tv_video_device"
-                },
-                "child_categories": [
-                    {
-                        "id": "tv_receivers",
-                        "child_name": "tv receivers",
-                        "href": "#tv_receivers"
-                    },
-                    {
-                        "id": "tv_remote_controllers",
-                        "child_name": "tv remote controllers",
-                        "href": "#tv_remote_controllers"
-                    },
-                    {
-                        "id": "cables",
-                        "child_name": "cables",
-                        "href": "#cables"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
                     "id": "kitchen_appliances",
                     "sub_name": "kitchen appliances",
                     "href": "#kitchen_appliances"
@@ -897,30 +675,6 @@
                         "id": "deep_freezer",
                         "child_name": "deep freezer",
                         "href": "#deep_freezer"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "refrigerators",
-                    "sub_name": "refrigerators",
-                    "href": "#refrigerators"
-                },
-                "child_categories": [
-                    {
-                        "id": "walton",
-                        "child_name": "walton",
-                        "href": "#walton"
-                    },
-                    {
-                        "id": "minister",
-                        "child_name": "minister",
-                        "href": "#minister"
-                    },
-                    {
-                        "id": "singer",
-                        "child_name": "singer",
-                        "href": "#singer"
                     }
                 ]
             },
@@ -983,30 +737,6 @@
             },
             {
                 "sub_category": {
-                    "id": "wearable",
-                    "sub_name": "wearable",
-                    "href": "#wearable"
-                },
-                "child_categories": [
-                    {
-                        "id": "smart_watches",
-                        "child_name": "smart watches",
-                        "href": "#smart_watches"
-                    },
-                    {
-                        "id": "fitness_activity_trackers",
-                        "child_name": "fitness & activity trackers",
-                        "href": "#fitness_activity_trackers"
-                    },
-                    {
-                        "id": "virtual_reality",
-                        "child_name": "virtual reality",
-                        "href": "#virtual_reality"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
                     "id": "computer_accessories",
                     "sub_name": "computer accessories",
                     "href": "#computer_accessories"
@@ -1052,30 +782,6 @@
                         "href": "#flash_drives"
                     }
                 ]
-            },
-            {
-                "sub_category": {
-                    "id": "camera_accessories",
-                    "sub_name": "camera accessories",
-                    "href": "#camera_accessories"
-                },
-                "child_categories": [
-                    {
-                        "id": "sports_action_camera_accessories",
-                        "child_name": "sports & action camera accessories",
-                        "href": "#sports_action_camera_accessories"
-                    },
-                    {
-                        "id": "lighting_studio_equipment",
-                        "child_name": "lighting & studio equipment",
-                        "href": "#lighting_studio_equipment"
-                    },
-                    {
-                        "id": "memory_card",
-                        "child_name": "memory card",
-                        "href": "#memory_card"
-                    }
-                ]
             }
         ]
     },
@@ -1118,19 +824,14 @@
                 },
                 "child_categories": [
                     {
-                        "id": "sugar",
-                        "child_name": "sugar",
-                        "href": "#sugar"
+                        "id": "rice",
+                        "child_name": "rice",
+                        "href": "#rice"
                     },
                     {
                         "id": "oil",
                         "child_name": "oil",
                         "href": "#oil"
-                    },
-                    {
-                        "id": "rice",
-                        "child_name": "rice",
-                        "href": "#rice"
                     }
                 ]
             },
@@ -1160,30 +861,6 @@
             },
             {
                 "sub_category": {
-                    "id": "dairy_eggs",
-                    "sub_name": "dairy & eggs",
-                    "href": "#dairy_eggs"
-                },
-                "child_categories": [
-                    {
-                        "id": "milk_powder",
-                        "child_name": "milk powder",
-                        "href": "#milk_powder"
-                    },
-                    {
-                        "id": "condensed_milk",
-                        "child_name": "condensed milk",
-                        "href": "#condensed_milk"
-                    },
-                    {
-                        "id": "creame",
-                        "child_name": "creame",
-                        "href": "#creame"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
                     "id": "chocolates_candy",
                     "sub_name": "chocolates & candy",
                     "href": "#chocolates_candy"
@@ -1198,11 +875,6 @@
                         "id": "candy",
                         "child_name": "candy",
                         "href": "#candy"
-                    },
-                    {
-                        "id": "chewing_gum_mints",
-                        "child_name": "chewing gum & mints",
-                        "href": "#chewing_gum_mints"
                     }
                 ]
             }
@@ -1262,54 +934,6 @@
                         "href": "#kitchen_dining_furniture"
                     }
                 ]
-            },
-            {
-                "sub_category": {
-                    "id": "cleaning",
-                    "sub_name": "cleaning",
-                    "href": "#cleaning"
-                },
-                "child_categories": [
-                    {
-                        "id": "brooms_mops_sweepers",
-                        "child_name": "brooms,mops & sweepers",
-                        "href": "#brooms_mops_sweepers"
-                    },
-                    {
-                        "id": "brushes_sponges_wipes",
-                        "child_name": "brushes,sponges & wipes",
-                        "href": "#brushes_sponges_wipes"
-                    },
-                    {
-                        "id": "cleaning_buckets_tubs",
-                        "child_name": "cleaning buckets & tubs",
-                        "href": "#cleaning_buckets_tubs"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "tools_diy_outdoor",
-                    "sub_name": "tools,diy & outdoor",
-                    "href": "#tools_diy_outdoor"
-                },
-                "child_categories": [
-                    {
-                        "id": "outdoor",
-                        "child_name": "outdoor",
-                        "href": "#outdoor"
-                    },
-                    {
-                        "id": "electrical",
-                        "child_name": "electrical",
-                        "href": "#electrical"
-                    },
-                    {
-                        "id": "power tools",
-                        "child_name": "power tools",
-                        "href": "#power tools"
-                    }
-                ]
             }
         ]
     },
@@ -1336,11 +960,6 @@
                         "id": "fitness_accessories",
                         "child_name": "fitness accessories",
                         "href": "/fitness_accessories"
-                    },
-                    {
-                        "id": "dumbbells_weight",
-                        "child_name": "dumbbells & weight",
-                        "href": "/dumbbells_weight"
                     }
                 ]
             },
@@ -1360,59 +979,6 @@
                         "id": "boxing_protective_gear",
                         "child_name": "boxing protective gear",
                         "href": "/boxing_protective_gear"
-                    },
-                    {
-                        "id": "martial_art_equipment",
-                        "child_name": "martial art equipment",
-                        "href": "/martial_art_equipment"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "shoes_clothing",
-                    "sub_name": "shoes & clothing",
-                    "href": "#shoes_clothing"
-                },
-                "child_categories": [
-                    {
-                        "id": "clothing",
-                        "child_name": "clothing",
-                        "href": "/clothing"
-                    },
-                    {
-                        "id": "running_shoes",
-                        "child_name": "running shoes",
-                        "href": "/running_shoes"
-                    },
-                    {
-                        "id": "accessories",
-                        "child_name": "accessories",
-                        "href": "/accessories"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "camping_hiking",
-                    "sub_name": "camping & hiking",
-                    "href": "#camping_hiking"
-                },
-                "child_categories": [
-                    {
-                        "id": "tents",
-                        "child_name": "tents",
-                        "href": "/tents"
-                    },
-                    {
-                        "id": "sleeping_bags",
-                        "child_name": "sleeping bags",
-                        "href": "/sleeping_bags"
-                    },
-                    {
-                        "id": "hiking_backpacks",
-                        "child_name": "hiking backpacks",
-                        "href": "/hiking_backpacks"
                     }
                 ]
             },
@@ -1444,7 +1010,7 @@
     },
     {
         "category": {
-            "id": "automotive _motorbike",
+            "id": "automotive_motorbike",
             "name": "Automotive & Motorbike",
             "img": "https://i.ibb.co/w7JKQ5N/usb-5697727.png"
         },
@@ -1465,11 +1031,6 @@
                         "id": "cleaners",
                         "child_name": "cleaners",
                         "href": "/cleaners"
-                    },
-                    {
-                        "id": "greases_lubricants",
-                        "child_name": "greases & lubricants",
-                        "href": "/greases_lubricants"
                     }
                 ]
             },
@@ -1489,11 +1050,6 @@
                         "id": "starters_parts",
                         "child_name": "starters & parts",
                         "href": "/starters_parts"
-                    },
-                    {
-                        "id": "lighting_electrical",
-                        "child_name": "lighting & electrical",
-                        "href": "/lighting_electrical"
                     }
                 ]
             },
