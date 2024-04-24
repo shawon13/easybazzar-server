@@ -17,19 +17,19 @@
                     {
                         "id": "shalwar_kameez",
                         "child_name": "Shalwar Kameez",
-                        "href": "#shalwar_kameez",
+                        "href": "/shalwar_kameez",
                         "category_id": "traditional-wear"
                     },
                     {
                         "id": "sarees",
                         "child_name": "Sarees",
-                        "href": "#sarees",
+                        "href": "/sarees",
                         "category_id": "traditional-wear"
                     },
                     {
                         "id": "kurtis",
                         "child_name": "Kurtis",
-                        "href": "#kurtis",
+                        "href": "/kurtis",
                         "category_id": "traditional-id"
                     }
                 ]
@@ -38,18 +38,21 @@
                 "sub_category": {
                     "id": "muslim_wear",
                     "sub_name": "Muslim Wear",
-                    "href": "muslim_wear"
+                    "href": "muslim_wear",
+                    "category_id": "muslim-wear"
                 },
                 "child_categories": [
                     {
                         "id": "abayas_long_dresses",
                         "child_name": "Abayas & Long Dresses",
-                        "href": "#abayas_long_dresses"
+                        "href": "#abayas_long_dresses",
+                        "category_id": "muslim-wear"
                     },
                     {
                         "id": "hijabs",
                         "child_name": "Hijabs",
-                        "href": "#hijabs"
+                        "href": "#hijabs",
+                        "category_id": "muslim-wear"
                     }
                 ]
             },
@@ -57,18 +60,21 @@
                 "sub_category": {
                     "id": "western_wear",
                     "sub_name": "Western Wear",
-                    "href": "western_wear"
+                    "href": "western_wear",
+                    "category_id": "western-wear"
                 },
                 "child_categories": [
                     {
-                        "id": "dresses",
-                        "child_name": "Dresses",
-                        "href": "#dresses"
+                        "id": "tops",
+                        "child_name": "tops",
+                        "href": "/tops",
+                        "category_id": "western-wear"
                     },
                     {
                         "id": "t-shirts",
                         "child_name": "T-shirts",
-                        "href": "#t-shirts"
+                        "href": "#t-shirts",
+                        "category_id": "western-wear"
                     }
                 ]
             },
@@ -76,18 +82,21 @@
                 "sub_category": {
                     "id": "shoes",
                     "sub_name": "Shoes",
-                    "href": "shoes"
+                    "href": "shoes",
+                    "category_id": "shoes"
                 },
                 "child_categories": [
                     {
                         "id": "heels",
                         "child_name": "Heels",
-                        "href": "#heels"
+                        "href": "/heels",
+                        "category_id": "shoes"
                     },
                     {
                         "id": "sneakers",
                         "child_name": "Sneakers",
-                        "href": "#sneakers"
+                        "href": "/sneakers",
+                        "category_id": "shoes"
                     }
                 ]
             }
@@ -104,18 +113,21 @@
                 "sub_category": {
                     "id": "skin_care",
                     "sub_name": "skin care",
-                    "href": "#skin_care"
+                    "href": "#skin_care",
+                    "category_id": "skin-care"
                 },
                 "child_categories": [
                     {
                         "id": "face_mask_packs",
                         "child_name": "face mask & packs",
-                        "href": "#face_mask_packs"
+                        "href": "#face_mask_packs",
+                        "category_id": "skin-care"
                     },
                     {
                         "id": "face_wash_cleansers",
                         "child_name": "face wash & cleansers",
-                        "href": "#face_wash_cleansers"
+                        "href": "#face_wash_cleansers",
+                        "category_id": "skin-care"
                     }
                 ]
             },
@@ -123,18 +135,21 @@
                 "sub_category": {
                     "id": "makeup",
                     "sub_name": "makeup",
-                    "href": "#makeup"
+                    "href": "#makeup",
+                    "category_id": "makeup"
                 },
                 "child_categories": [
                     {
                         "id": "makeup_palettes_sets",
                         "child_name": "makeup palettes & sets",
-                        "href": "#makeup_palettes_sets"
+                        "href": "#makeup_palettes_sets",
+                        "category_id": "makeup"
                     },
                     {
                         "id": "makeup_accessories",
                         "child_name": "makeup accessories",
-                        "href": "#makeup_accessories"
+                        "href": "#makeup_accessories",
+                        "category_id": "makeup"
                     }
                 ]
             },
@@ -142,18 +157,21 @@
                 "sub_category": {
                     "id": "fragrances",
                     "sub_name": "fragrances",
-                    "href": "#fragrances"
+                    "href": "#fragrances",
+                    "category_id": "fragrances"
                 },
                 "child_categories": [
                     {
                         "id": "women's_perfume",
                         "child_name": "women's perfume",
-                        "href": "#women's_perfume"
+                        "href": "#women's_perfume",
+                        "category_id": "fragrances"
                     },
                     {
                         "id": "men's_perfume",
                         "child_name": "men's perfume",
-                        "href": "#men's_perfume"
+                        "href": "#men's_perfume",
+                        "category_id": "fragrances"
                     }
                 ]
             }
@@ -168,140 +186,73 @@
         "sub_categories": [
             {
                 "sub_category": {
-                    "id": "men's_bags",
-                    "sub_name": "men's bags",
-                    "href": "#men's_bags"
+                    "id": "bags",
+                    "sub_name": "bags",
+                    "href": "bags",
+                    "category_id": "bags"
                 },
                 "child_categories": [
                     {
                         "id": "backpacks",
                         "child_name": "backpacks",
-                        "href": "#backpacks"
+                        "href": "#backpacks",
+                        "category_id": "bags"
                     },
                     {
                         "id": "business_bags",
                         "child_name": "business bags",
-                        "href": "#business_bags"
+                        "href": "#business_bags",
+                        "category_id": "bags"
                     },
                     {
-                        "id": "wallets_accessories",
-                        "child_name": "wallets & accessories",
-                        "href": "#wallets_accessories"
+                        "id": "wallets",
+                        "child_name": "wallets",
+                        "href": "#wallets",
+                        "category_id": "bags"
                     }
                 ]
             },
             {
                 "sub_category": {
-                    "id": "women's_bags",
-                    "sub_name": "women's bags",
-                    "href": "#women's_bags"
+                    "id": "watches",
+                    "sub_name": "watches",
+                    "href": "watches",
+                    "category_id": "watches"
                 },
                 "child_categories": [
                     {
-                        "id": "backpacks",
-                        "child_name": "backpacks",
-                        "href": "#backpacks"
-                    },
-                    {
-                        "id": "tote_bags",
-                        "child_name": "tote bags",
-                        "href": "#tote_bags"
-                    },
-                    {
-                        "id": "top-handle_bags",
-                        "child_name": "top-handle bags",
-                        "href": "#top-handle_bags"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "men's_watches",
-                    "sub_name": "men's watches",
-                    "href": "#men's_watches"
-                },
-                "child_categories": [
-                    {
-                        "id": "business",
-                        "child_name": "business",
-                        "href": "#business"
+                        "id": "fashion",
+                        "child_name": "fashion",
+                        "href": "#fashion",
+                        "category_id": "watches"
                     },
                     {
                         "id": "casual",
                         "child_name": "casual",
-                        "href": "#casual"
-                    },
-                    {
-                        "id": "accessories",
-                        "child_name": "accessories",
-                        "href": "#accessories"
+                        "href": "#casual",
+                        "category_id": "watches"
                     }
                 ]
             },
             {
                 "sub_category": {
-                    "id": "women's_watches",
-                    "sub_name": "women's watches",
-                    "href": "#women's_watches"
+                    "id": "jewellery",
+                    "sub_name": "jewellery",
+                    "href": "#jewellery",
+                    "category_id": "jewellery"
                 },
                 "child_categories": [
-                    {
-                        "id": "business",
-                        "child_name": "business",
-                        "href": "#business"
-                    },
-                    {
-                        "id": "casual",
-                        "child_name": "casual",
-                        "href": "#casual"
-                    },
-                    {
-                        "id": "accessories",
-                        "child_name": "accessories",
-                        "href": "#accessories"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "women's_jewellery",
-                    "sub_name": "women's jewellery",
-                    "href": "#women's_jewellery"
-                },
-                "child_categories": [
-                    {
-                        "id": "nose_pin_body_piercings",
-                        "child_name": "nose pin & body piercings",
-                        "href": "#nose_pin_body_piercings"
-                    },
                     {
                         "id": "necklaces",
                         "child_name": "necklaces",
-                        "href": "#necklaces"
+                        "href": "#necklaces",
+                        "category_id": "jewellery"
                     },
                     {
                         "id": "rings",
                         "child_name": "rings",
-                        "href": "#rings"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "men's_jewellery",
-                    "sub_name": "men's jewellery",
-                    "href": "#men's_jewellery"
-                },
-                "child_categories": [
-                    {
-                        "id": "bracelets",
-                        "child_name": "bracelets",
-                        "href": "#bracelets"
-                    },
-                    {
-                        "id": "rings",
-                        "child_name": "rings",
-                        "href": "#rings"
+                        "href": "#rings",
+                        "category_id": "jewellery"
                     }
                 ]
             }
@@ -316,25 +267,29 @@
         "sub_categories": [
             {
                 "sub_category": {
-                    "id": "Clothing",
-                    "sub_name": "Clothing",
-                    "href": "#Clothing"
+                    "id": "clothing",
+                    "sub_name": "clothing",
+                    "href": "#clothing",
+                    "category_id": "clothing"
                 },
                 "child_categories": [
                     {
-                        "id": "T-shirts",
-                        "child_name": "T-shirts",
-                        "href": "#T-shirts"
-                    },
-                    {
                         "id": "jeans",
                         "child_name": "jeans",
-                        "href": "#jeans"
+                        "href": "#jeans",
+                        "category_id": "clothing"
                     },
                     {
-                        "id": "Shirts",
-                        "child_name": "Shirts",
-                        "href": "#Shirts"
+                        "id": "shirts",
+                        "child_name": "shirts",
+                        "href": "#shirts",
+                        "category_id": "clothing"
+                    },
+                    {
+                        "id": "panjabi",
+                        "child_name": "panjabi",
+                        "href": "#panjabi",
+                        "category_id": "clothing"
                     }
                 ]
             },
@@ -342,42 +297,27 @@
                 "sub_category": {
                     "id": "shoes",
                     "sub_name": "shoes",
-                    "href": "#shoes"
+                    "href": "#shoes",
+                    "category_id": "shoes"
                 },
                 "child_categories": [
                     {
-                        "id": "Sneakers",
-                        "child_name": "Sneakers",
-                        "href": "#Sneakers"
+                        "id": "sneakers",
+                        "child_name": "sneakers",
+                        "href": "#sneakers",
+                        "category_id": "shoes"
                     },
                     {
                         "id": "formal_shoes",
                         "child_name": "Formal shoes",
-                        "href": "#formal_shoes"
+                        "href": "#formal_shoes",
+                        "category_id": "shoes"
                     },
                     {
                         "id": "sandals",
                         "child_name": "sandals",
-                        "href": "#sandals"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "muslim_wear",
-                    "sub_name": "muslim wear",
-                    "href": "#muslim_wear"
-                },
-                "child_categories": [
-                    {
-                        "id": "jubbahs",
-                        "child_name": "jubbahs",
-                        "href": "#jubbahs"
-                    },
-                    {
-                        "id": "kurtas_panjabis",
-                        "child_name": "kurtas and panjabis",
-                        "href": "#kurtas_panjabis"
+                        "href": "#sandals",
+                        "category_id": "shoes"
                     }
                 ]
             },
@@ -385,18 +325,15 @@
                 "sub_category": {
                     "id": "eyewear",
                     "sub_name": "eyewear",
-                    "href": "#eyewear"
+                    "href": "eyewear",
+                    "category_id": "eyewear"
                 },
                 "child_categories": [
                     {
-                        "id": "eyeglasses",
-                        "child_name": "Eyeglasses",
-                        "href": "#eyeglasses"
-                    },
-                    {
                         "id": "sunglasses",
                         "child_name": "sunglasses",
-                        "href": "#sunglasses"
+                        "href": "sunglasses",
+                        "category_id": "eyewear"
                     }
                 ]
             }
@@ -413,18 +350,15 @@
                 "sub_category": {
                     "id": "diapering_potty",
                     "sub_name": "diapering & potty",
-                    "href": "#diapering_potty"
+                    "href": "diapering_potty",
+                    "category_id": "diapering_potty"
                 },
                 "child_categories": [
                     {
                         "id": "diapers",
                         "child_name": "diapers",
-                        "href": "#diapers"
-                    },
-                    {
-                        "id": "potty_chair_seat",
-                        "child_name": "potty chair & seat",
-                        "href": "#potty_chair_seat"
+                        "href": "#diapers",
+                        "category_id": "diapering-potty"
                     }
                 ]
             },
@@ -432,42 +366,15 @@
                 "sub_category": {
                     "id": "feeding",
                     "sub_name": "feeding",
-                    "href": "#feeding"
+                    "href": "#feeding",
+                    "category_id": "feeding"
                 },
                 "child_categories": [
                     {
                         "id": "baby_toddler_foods",
                         "child_name": "baby & toddler foods",
-                        "href": "#baby_toddler_foods"
-                    },
-                    {
-                        "id": "bottle_feeding",
-                        "child_name": "bottle feeding",
-                        "href": "#bottle_feeding"
-                    },
-                    {
-                        "id": "feeding_chairs_seats",
-                        "child_name": "feeding chairs & seats",
-                        "href": "#feeding_chairs_seats"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "baby_care_gift",
-                    "sub_name": "baby care & gift",
-                    "href": "#baby_care_gift"
-                },
-                "child_categories": [
-                    {
-                        "id": "shampoo_conditioners",
-                        "child_name": "shampoo & conditioners",
-                        "href": "#shampoo_conditioners"
-                    },
-                    {
-                        "id": "lotions_creams",
-                        "child_name": "lotions & creams",
-                        "href": "#lotions_creams"
+                        "href": "#baby_toddler_foods",
+                        "category_id": "feeding"
                     }
                 ]
             }
@@ -484,18 +391,21 @@
                 "sub_category": {
                     "id": "smartphones",
                     "sub_name": "smartphones",
-                    "href": "#smartphones"
+                    "href": "smartphones",
+                    "category_id": "smartphones"
                 },
                 "child_categories": [
                     {
                         "id": "apple_phones",
                         "child_name": "apple phones",
-                        "href": "#apple_phones"
+                        "href": "apple_phones",
+                        "category_id": "smartphones"
                     },
                     {
                         "id": "samsung_phones",
                         "child_name": "samsung phones",
-                        "href": "#samsung_phones"
+                        "href": "samsung_phones",
+                        "category_id": "smartphones"
                     }
                 ]
             },
@@ -503,18 +413,21 @@
                 "sub_category": {
                     "id": "cameeras",
                     "sub_name": "cameeras",
-                    "href": "#cameeras"
+                    "href": "cameeras",
+                    "category_id": "cameeras"
                 },
                 "child_categories": [
                     {
                         "id": "canon",
                         "child_name": "canon",
-                        "href": "#canon"
+                        "href": "canon",
+                        "category_id": "cameeras"
                     },
                     {
                         "id": "gopro",
                         "child_name": "gopro",
-                        "href": "#gopro"
+                        "href": "gopro",
+                        "category_id": "cameeras"
                     }
                 ]
             },
@@ -522,23 +435,21 @@
                 "sub_category": {
                     "id": "audio_wearable",
                     "sub_name": "audio & wearable",
-                    "href": "#audio_wearable"
+                    "href": "audio_wearable",
+                    "category_id": "audio-wearable"
                 },
                 "child_categories": [
                     {
                         "id": "headphones_headsets",
                         "child_name": "headphones & headsets",
-                        "href": "#headphones_headsets"
-                    },
-                    {
-                        "id": "bluetooth_speaker",
-                        "child_name": "bluetooth speaker",
-                        "href": "#bluetooth_speaker"
+                        "href": "headphones_headsets",
+                        "category_id": "audio-wearable"
                     },
                     {
                         "id": "smartwatches",
                         "child_name": "smartwatches",
-                        "href": "#smartwatches"
+                        "href": "smartwatches",
+                        "category_id": "audio-wearable"
                     }
                 ]
             },
@@ -546,23 +457,21 @@
                 "sub_category": {
                     "id": "laptop_desktops",
                     "sub_name": "laptop & desktops",
-                    "href": "#laptop_desktops"
+                    "href": "laptop_desktops",
+                    "category_id": "laptop-desktops"
                 },
                 "child_categories": [
                     {
-                        "id": "apple",
-                        "child_name": "apple",
-                        "href": "#apple"
-                    },
-                    {
-                        "id": "hp",
-                        "child_name": "hp",
-                        "href": "#hp"
+                        "id": "laptop",
+                        "child_name": "laptop",
+                        "href": "laptop",
+                        "category_id": "laptop-desktops"
                     },
                     {
                         "id": "all_in_one_desltop",
                         "child_name": "all in one desltop",
-                        "href": "#all_in_one_desltop"
+                        "href": "all_in_one_desltop",
+                        "category_id": "laptop-desktops"
                     }
                 ]
             }
@@ -579,18 +488,15 @@
                 "sub_category": {
                     "id": "television",
                     "sub_name": "television",
-                    "href": "#television"
+                    "href": "television",
+                    "category_id": "television"
                 },
                 "child_categories": [
                     {
                         "id": "smart_television",
                         "child_name": "smart television",
-                        "href": "#smart_television"
-                    },
-                    {
-                        "id": "led_televisions",
-                        "child_name": "led televisions",
-                        "href": "#led_televisions"
+                        "href": "smart_television",
+                        "category_id": "television"
                     }
                 ]
             },
@@ -598,23 +504,21 @@
                 "sub_category": {
                     "id": "kitchen_appliances",
                     "sub_name": "kitchen appliances",
-                    "href": "#kitchen_appliances"
+                    "href": "kitchen_appliances",
+                    "category_id": "kitchen-appliances"
                 },
                 "child_categories": [
                     {
                         "id": "cooktops_ranges",
                         "child_name": "cooktops & ranges",
-                        "href": "#cooktops_ranges"
-                    },
-                    {
-                        "id": "ovens",
-                        "child_name": "ovens",
-                        "href": "#ovens"
+                        "href": "cooktops_ranges",
+                        "category_id": "kitchen-appliances"
                     },
                     {
                         "id": "deep_freezer",
                         "child_name": "deep freezer",
-                        "href": "#deep_freezer"
+                        "href": "deep_freezer",
+                        "category_id": "kitchen-appliances"
                     }
                 ]
             },
@@ -622,23 +526,21 @@
                 "sub_category": {
                     "id": "fans",
                     "sub_name": "fans",
-                    "href": "#fans"
+                    "href": "fans",
+                    "category_id": "fans"
                 },
                 "child_categories": [
                     {
                         "id": "ceiling_fans",
                         "child_name": "ceiling fans",
-                        "href": "#ceiling_fans"
-                    },
-                    {
-                        "id": "mini_fans",
-                        "child_name": "mini fans",
-                        "href": "#mini_fans"
+                        "href": "ceiling_fans",
+                        "category_id": "fans"
                     },
                     {
                         "id": "stand_fan",
                         "child_name": "stand fan",
-                        "href": "#stand_fan"
+                        "href": "stand_fan",
+                        "category_id": "fans"
                     }
                 ]
             }
@@ -655,23 +557,21 @@
                 "sub_category": {
                     "id": "audio",
                     "sub_name": "audio",
-                    "href": "#audio"
+                    "href": "audio",
+                    "category_id": "audio"
                 },
                 "child_categories": [
                     {
-                        "id": "headphones_headsets",
-                        "child_name": "headphones & headsets",
-                        "href": "#headphones_headsets"
-                    },
-                    {
                         "id": "wireless_earbuds",
                         "child_name": "wireless earbuds",
-                        "href": "#wireless_earbuds"
+                        "href": "wireless_earbuds",
+                        "category_id": "audio"
                     },
                     {
                         "id": "smart_speaker",
                         "child_name": "smart speaker",
-                        "href": "#smart_speaker"
+                        "href": "smart_speaker",
+                        "category_id": "audio"
                     }
                 ]
             },
@@ -679,23 +579,21 @@
                 "sub_category": {
                     "id": "computer_accessories",
                     "sub_name": "computer accessories",
-                    "href": "#computer_accessories"
+                    "href": "computer_accessories",
+                    "category_id": "computer-accessories"
                 },
                 "child_categories": [
                     {
                         "id": "monitors",
                         "child_name": "monitors",
-                        "href": "#monitors"
+                        "href": "monitors",
+                        "category_id": "computer-accessories"
                     },
                     {
-                        "id": "mice",
+                        "id": "mice_keyboard",
                         "child_name": "mice",
-                        "href": "#mice"
-                    },
-                    {
-                        "id": "keyboards",
-                        "child_name": "keyboards",
-                        "href": "#keyboards"
+                        "href": "mice",
+                        "category_id": "computer-accessories"
                     }
                 ]
             },
@@ -703,23 +601,21 @@
                 "sub_category": {
                     "id": "storage",
                     "sub_name": "storage",
-                    "href": "#storage"
+                    "href": "storage",
+                    "category_id": "storage"
                 },
                 "child_categories": [
                     {
                         "id": "external_hard_drives",
                         "child_name": "external hard drives",
-                        "href": "#external_hard_drives"
+                        "href": "external_hard_drives",
+                        "category_id": "storage"
                     },
                     {
                         "id": "internal_hard_drives",
                         "child_name": "internal hard drives",
-                        "href": "#internal_hard_drives"
-                    },
-                    {
-                        "id": "flash_drives",
-                        "child_name": "flash drives",
-                        "href": "#flash_drives"
+                        "href": "internal_hard_drives",
+                        "category_id": "storage"
                     }
                 ]
             }
@@ -736,23 +632,27 @@
                 "sub_category": {
                     "id": "fruits_meat_frozen",
                     "sub_name": "fruits,meat & frozen",
-                    "href": "#fruits_meat_frozen"
+                    "href": "fruits_meat_frozen",
+                    "category_id": "fruits-meat-frozen"
                 },
                 "child_categories": [
                     {
                         "id": "fruits",
                         "child_name": "fruits",
-                        "href": "#fruits"
+                        "href": "fruits",
+                        "category_id": "fruits-meat-frozen"
                     },
                     {
                         "id": "vegetables",
                         "child_name": "vegetables",
-                        "href": "#vegetables"
+                        "href": "vegetables",
+                        "category_id": "fruits-meat-frozen"
                     },
                     {
                         "id": "dried_fish",
                         "child_name": "dried fish",
-                        "href": "#dried_fish"
+                        "href": "dried_fish",
+                        "category_id": "fruits-meat-frozen"
                     }
                 ]
             },
@@ -760,42 +660,21 @@
                 "sub_category": {
                     "id": "cooking_ingredients",
                     "sub_name": "cooking ingredients",
-                    "href": "#cooking_ingredients"
+                    "href": "cooking_ingredients",
+                    "category_id": "cooking-ingredients"
                 },
                 "child_categories": [
                     {
                         "id": "rice",
                         "child_name": "rice",
-                        "href": "#rice"
+                        "href": "rice",
+                        "category_id": "cooking-ingredients"
                     },
                     {
                         "id": "oil",
                         "child_name": "oil",
-                        "href": "#oil"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "snacks_beverages",
-                    "sub_name": "snacks & beverages",
-                    "href": "#snacks_beverages"
-                },
-                "child_categories": [
-                    {
-                        "id": "noodles",
-                        "child_name": "noodles",
-                        "href": "#noodles"
-                    },
-                    {
-                        "id": "dry_fruits",
-                        "child_name": "dry fruits",
-                        "href": "#dry_fruits"
-                    },
-                    {
-                        "id": "coffee",
-                        "child_name": "coffee",
-                        "href": "#coffee"
+                        "href": "oil",
+                        "category_id": "cooking-ingredients"
                     }
                 ]
             },
@@ -803,18 +682,21 @@
                 "sub_category": {
                     "id": "chocolates_candy",
                     "sub_name": "chocolates & candy",
-                    "href": "#chocolates_candy"
+                    "href": "chocolates_candy",
+                    "category_id": "chocolates-candy"
                 },
                 "child_categories": [
                     {
                         "id": "chocolate",
                         "child_name": "chocolate",
-                        "href": "#chocolate"
+                        "href": "chocolate",
+                        "category_id": "chocolates-candy"
                     },
                     {
                         "id": "candy",
                         "child_name": "candy",
-                        "href": "#candy"
+                        "href": "candy",
+                        "category_id": "chocolates-candy"
                     }
                 ]
             }
@@ -831,23 +713,15 @@
                 "sub_category": {
                     "id": "bedding",
                     "sub_name": "bedding",
-                    "href": "#bedding"
+                    "href": "bedding",
+                    "category_id": "bedding"
                 },
                 "child_categories": [
                     {
-                        "id": "towel_rails_warmers",
-                        "child_name": "towel rails & warmers",
-                        "href": "#towel_rails_warmers"
-                    },
-                    {
-                        "id": "bed_runners_skirts",
-                        "child_name": "bed runners & skirts",
-                        "href": "#bed_runners_skirts"
-                    },
-                    {
                         "id": "bed_sheets",
                         "child_name": "bed sheets",
-                        "href": "#bed_sheets"
+                        "href": "bed_sheets",
+                        "category_id": "bedding"
                     }
                 ]
             },
@@ -855,23 +729,21 @@
                 "sub_category": {
                     "id": "furniture",
                     "sub_name": "furniture",
-                    "href": "#furniture"
+                    "href": "furniture",
+                    "category_id": "furniture"
                 },
                 "child_categories": [
                     {
                         "id": "bedroom_furniture",
                         "child_name": "bedroom furniture",
-                        "href": "#bedroom_furniture"
+                        "href": "bedroom_furniture",
+                        "category_id": "furniture"
                     },
                     {
                         "id": "home_office_furniture",
                         "child_name": "home office furniture",
-                        "href": "#home_office_furniture"
-                    },
-                    {
-                        "id": "kitchen_dining_furniture",
-                        "child_name": "kitchen & dining furniture",
-                        "href": "#kitchen_dining_furniture"
+                        "href": "#home_office_furniture",
+                        "category_id": "furniture"
                     }
                 ]
             }
@@ -888,18 +760,21 @@
                 "sub_category": {
                     "id": "exercise_fitness",
                     "sub_name": "exercise & fitness",
-                    "href": "#exercise_fitness"
+                    "href": "exercise_fitness",
+                    "category": "exercise-fitness"
                 },
                 "child_categories": [
                     {
                         "id": "treadmills",
                         "child_name": "treadmills",
-                        "href": "/treadmills"
+                        "href": "/treadmills",
+                        "category": "exercise-fitness"
                     },
                     {
                         "id": "fitness_accessories",
                         "child_name": "fitness accessories",
-                        "href": "/fitness_accessories"
+                        "href": "/fitness_accessories",
+                        "category": "exercise-fitness"
                     }
                 ]
             },
@@ -907,18 +782,21 @@
                 "sub_category": {
                     "id": "boxing_martial_arts",
                     "sub_name": "boxing & martial arts",
-                    "href": "#boxing_martial_arts"
+                    "href": "/boxing_martial_arts",
+                    "category_id": "boxing-martial-arts"
                 },
                 "child_categories": [
                     {
                         "id": "boxing_gloves",
                         "child_name": "boxing gloves",
-                        "href": "/boxing_gloves"
+                        "href": "/boxing_gloves",
+                        "category_id": "boxing-martial-arts"
                     },
                     {
                         "id": "boxing_protective_gear",
                         "child_name": "boxing protective gear",
-                        "href": "/boxing_protective_gear"
+                        "href": "/boxing_protective_gear",
+                        "category_id": "boxing-martial-arts"
                     }
                 ]
             },
@@ -926,23 +804,21 @@
                 "sub_category": {
                     "id": "team_sports",
                     "sub_name": "team sports",
-                    "href": "#team_sports"
+                    "href": "team_sports",
+                    "category_id": "team-sports"
                 },
                 "child_categories": [
                     {
                         "id": "football",
                         "child_name": "football",
-                        "href": "/football"
+                        "href": "/football",
+                        "category_id": "team-sports"
                     },
                     {
                         "id": "cricket",
                         "child_name": "cricket",
-                        "href": "/cricket"
-                    },
-                    {
-                        "id": "basketball",
-                        "child_name": "basketball",
-                        "href": "/basketball"
+                        "href": "/cricket",
+                        "category_id": "team-sports"
                     }
                 ]
             }
@@ -959,56 +835,21 @@
                 "sub_category": {
                     "id": "oil_fluids",
                     "sub_name": "oil & fluids",
-                    "href": "#oil_fluids"
+                    "href": "oil_fluids",
+                    "category_id": "oil-fluids"
                 },
                 "child_categories": [
                     {
                         "id": "oils",
                         "child_name": "oils",
-                        "href": "/oils"
+                        "href": "/oils",
+                        "category_id": "oil-fluids"
                     },
                     {
                         "id": "cleaners",
                         "child_name": "cleaners",
-                        "href": "/cleaners"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "car_parts_spares",
-                    "sub_name": "car parts & spares",
-                    "href": "#car_parts_spares"
-                },
-                "child_categories": [
-                    {
-                        "id": "engine_parts",
-                        "child_name": "engine parts",
-                        "href": "/engine_parts"
-                    },
-                    {
-                        "id": "starters_parts",
-                        "child_name": "starters & parts",
-                        "href": "/starters_parts"
-                    }
-                ]
-            },
-            {
-                "sub_category": {
-                    "id": "motorcycle_parts_spares",
-                    "sub_name": "motorcycle parts & spares",
-                    "href": "#motorcycle_parts_spares"
-                },
-                "child_categories": [
-                    {
-                        "id": "body_frame",
-                        "child_name": "body & frame",
-                        "href": "/body_frame"
-                    },
-                    {
-                        "id": "drivetrain_transmission",
-                        "child_name": "drivetrain & transmission",
-                        "href": "/drivetrain_transmission"
+                        "href": "/cleaners",
+                        "category_id": "oil-fluids"
                     }
                 ]
             },
@@ -1016,18 +857,21 @@
                 "sub_category": {
                     "id": "vehicle_care",
                     "sub_name": "vehicle care",
-                    "href": "#vehicle_care"
+                    "href": "vehicle_care",
+                    "category_id": "vehicle-care"
                 },
                 "child_categories": [
                     {
                         "id": "cleaners_kits",
                         "child_name": "cleaners and kits",
-                        "href": "/cleaners_kits"
+                        "href": "/cleaners_kits",
+                        "category_id": "vehicle-care"
                     },
                     {
                         "id": "car_polishes_waxes",
                         "child_name": "car polishes & waxes",
-                        "href": "/car_polishes_waxes"
+                        "href": "/car_polishes_waxes",
+                        "category_id": "vehicle-care"
                     }
                 ]
             }
