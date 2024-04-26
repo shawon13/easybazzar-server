@@ -4,9 +4,17 @@ const app = express()
 app.use(cors())
 const port = process.env.PORT || 5000;
 const categories = require('./data/category.json')
+const products = require('./data/products.json')
+const flashsales = require('./data/flashsales.json')
 
 app.get('/categories', (req, res) => {
     res.send(categories)
+})
+app.get('/products', (req, res) => {
+    res.send(products)
+})
+app.get('/flashsales', (req, res) => {
+    res.send(flashsales)
 })
 app.get('/', (req, res) => {
     res.send('Hello World!')
