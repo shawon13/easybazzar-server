@@ -11,6 +11,17 @@
     "category_id": "traditional-wear"
   },
   {
+    "id": "sarees",
+    "name": "Tangail Tat Multi Colour Trendy Moslin Jamdani Saree for Women",
+    "image": "https://i.ibb.co/TT0MQSj/d036fb6a614fb386469e062f7084fbc7-jpg-750x750-jpg.png",
+    "original_price": 1222,
+    "current_price": 999,
+    "discount": "-20%",
+    "rating": 122,
+    "star": 4.5,
+    "category_id": "traditional-wear"
+  },
+  {
     "id": "shalwar_kameez",
     "name": "Fashionable Naira Cut Long Shalwar Kameez for Women in White Color Suitable for All Seasons",
     "image": "https://i.ibb.co/ccJsRQ3/1a79031b2ea2d48df1fb542ae2ecd1b6-jpg-750x750-jpg-1.png",
@@ -23,34 +34,12 @@
   },
   {
     "id": "sarees",
-    "name": "Tangail Tat Multi Colour Trendy Moslin Jamdani Saree for Women",
-    "image": "https://i.ibb.co/TT0MQSj/d036fb6a614fb386469e062f7084fbc7-jpg-750x750-jpg.png",
-    "original_price": 1222,
-    "current_price": 999,
-    "discount": "-20%",
-    "rating": 122,
-    "star": 4.5,
-    "category_id": "traditional-wear"
-  },
-  {
-    "id": "sarees",
     "name": "Tangail Tat Blue Color Full Body Work Exclusive Katan12 Hand Saree for Women From Tangail Tant Saree Store",
     "image": "https://i.ibb.co/5B8msQt/1b0077caaeb62c28c898e087dbec9c65-jpg-750x750-jpg.png",
     "original_price": 1400,
     "current_price": 1000,
     "discount": "-13%",
     "rating": 91,
-    "star": 4,
-    "category_id": "traditional-wear"
-  },
-  {
-    "id": "kurtis",
-    "name": "New Exclusive designed Gown1piece long kurti different Gown long kurti For Stylish Women Girls",
-    "image": "https://i.ibb.co/6RwBpjx/1b0077caaeb62c28c898e087dbec9c65-jpg-750x750-jpg.png",
-    "original_price": 999,
-    "current_price": 325,
-    "discount": "-60%",
-    "rating": 20,
     "star": 4,
     "category_id": "traditional-wear"
   },
@@ -77,15 +66,15 @@
     "category_id": "muslim-wear"
   },
   {
-    "id": "abayas_long_dresses",
-    "name": "Kuchi Button Abaya Comfortable & Stylish Women Islamic Outerwear for Women",
-    "image": "https://i.ibb.co/V2NZYHn/5d13e1a.png",
-    "original_price": 2000,
-    "current_price": 1320,
-    "discount": "-55%",
-    "rating": 15,
-    "star": 4.5,
-    "category_id": "muslim-wear"
+    "id": "kurtis",
+    "name": "New Exclusive designed Gown1piece long kurti different Gown long kurti For Stylish Women Girls",
+    "image": "https://i.ibb.co/6RwBpjx/1b0077caaeb62c28c898e087dbec9c65-jpg-750x750-jpg.png",
+    "original_price": 999,
+    "current_price": 325,
+    "discount": "-60%",
+    "rating": 20,
+    "star": 4,
+    "category_id": "traditional-wear"
   },
   {
     "id": "hijabs",
@@ -99,14 +88,14 @@
     "category_id": "muslim-wear"
   },
   {
-    "id": "hijabs",
-    "name": "Glam Touch Extra Coverage One Loop Ready Hijab Set",
-    "image": "https://i.ibb.co/8m9ktrC/5b889038.png",
-    "original_price": 2250,
-    "current_price": 1090,
-    "discount": "52%",
-    "rating": 58,
-    "star": 4,
+    "id": "abayas_long_dresses",
+    "name": "Kuchi Button Abaya Comfortable & Stylish Women Islamic Outerwear for Women",
+    "image": "https://i.ibb.co/V2NZYHn/5d13e1a.png",
+    "original_price": 2000,
+    "current_price": 1320,
+    "discount": "-55%",
+    "rating": 15,
+    "star": 4.5,
     "category_id": "muslim-wear"
   },
   {
@@ -121,15 +110,15 @@
     "category_id": "western-wear"
   },
   {
-    "id": "tops",
-    "name": "Ladies T-shirt 3 Quarter",
-    "image": "https://i.ibb.co/JxVTGSJ/b1576672e273.png",
-    "original_price": 600,
-    "current_price": 410,
-    "discount": "-35%",
-    "rating": 62,
+    "id": "hijabs",
+    "name": "Glam Touch Extra Coverage One Loop Ready Hijab Set",
+    "image": "https://i.ibb.co/8m9ktrC/5b889038.png",
+    "original_price": 2250,
+    "current_price": 1090,
+    "discount": "52%",
+    "rating": 58,
     "star": 4,
-    "category_id": "western-wear"
+    "category_id": "muslim-wear"
   },
   {
     "id": "heels",
@@ -141,6 +130,17 @@
     "rating": 102,
     "star": 4,
     "category_id": "shoes"
+  },
+  {
+    "id": "tops",
+    "name": "Ladies T-shirt 3 Quarter",
+    "image": "https://i.ibb.co/JxVTGSJ/b1576672e273.png",
+    "original_price": 600,
+    "current_price": 410,
+    "discount": "-35%",
+    "rating": 62,
+    "star": 4,
+    "category_id": "western-wear"
   },
   {
     "id": "heels",
@@ -176,17 +176,6 @@
     "category_id": "skin-care"
   },
   {
-    "id": "face_mask_packs",
-    "name": "Beauty Glazed - 10pcs Glazed Nose Pore Strips Blackhead Remover 3gm",
-    "image": "https://i.ibb.co/zf6TKyc/1e8dbfd5898e8acbda73011bd2438ecf-jpg-750x400-jpg.png",
-    "original_price": 400,
-    "current_price": 180,
-    "discount": "-55%",
-    "rating": 662,
-    "star": 4,
-    "category_id": "skin-care"
-  },
-  {
     "id": "face_wash_cleansers",
     "name": "Pond's Face Wash Bright Beauty 100g",
     "image": "https://i.ibb.co/SJgjfRM/ponds-face-wash-bright-beauty-50g-1.png",
@@ -195,6 +184,17 @@
     "discount": "-30%",
     "rating": 2262,
     "star": 4.7,
+    "category_id": "skin-care"
+  },
+  {
+    "id": "face_mask_packs",
+    "name": "Beauty Glazed - 10pcs Glazed Nose Pore Strips Blackhead Remover 3gm",
+    "image": "https://i.ibb.co/zf6TKyc/1e8dbfd5898e8acbda73011bd2438ecf-jpg-750x400-jpg.png",
+    "original_price": 400,
+    "current_price": 180,
+    "discount": "-55%",
+    "rating": 662,
+    "star": 4,
     "category_id": "skin-care"
   },
   {
