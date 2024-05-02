@@ -62,7 +62,7 @@
     "current_price": 1100,
     "discount": "-49%",
     "rating": 14,
-    "star": 4,
+    "star": 3,
     "category_id": "muslim-wear"
   },
   {
@@ -106,7 +106,7 @@
     "current_price": 450,
     "discount": "-35%",
     "rating": 262,
-    "star": 4,
+    "star": 3,
     "category_id": "western-wear"
   },
   {
@@ -128,7 +128,7 @@
     "current_price": 550,
     "discount": "-51%",
     "rating": 102,
-    "star": 4,
+    "star": 5,
     "category_id": "shoes"
   },
   {
@@ -139,7 +139,7 @@
     "current_price": 410,
     "discount": "-35%",
     "rating": 62,
-    "star": 4,
+    "star": 4.5,
     "category_id": "western-wear"
   },
   {
@@ -161,7 +161,7 @@
     "current_price": 990,
     "discount": "-45%",
     "rating": 196,
-    "star": 4.5,
+    "star": 3.5,
     "category_id": "shoes"
   },
   {
@@ -216,7 +216,7 @@
     "current_price": 280,
     "discount": "-44%",
     "rating": 22,
-    "star": 4,
+    "star": 4.5,
     "category_id": "makeup"
   },
   {
@@ -249,7 +249,7 @@
     "current_price": 2000,
     "discount": "-0%",
     "rating": 8,
-    "star": 4.5,
+    "star": 4.6,
     "category_id": "fragrances"
   },
   {
@@ -282,7 +282,7 @@
     "current_price": 950,
     "discount": "-31%",
     "rating": 38,
-    "star": 4.5,
+    "star": 4.3,
     "category_id": "bags"
   },
   {
