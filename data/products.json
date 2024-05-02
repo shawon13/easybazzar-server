@@ -238,7 +238,7 @@
     "current_price": 9850,
     "discount": "-0%",
     "rating": 3,
-    "star": 5,
+    "star": 2,
     "category_id": "fragrances"
   },
   {
@@ -260,7 +260,7 @@
     "current_price": 120,
     "discount": "-60%",
     "rating": 8,
-    "star": 4.5,
+    "star": 3,
     "category_id": "bags"
   },
   {
@@ -370,7 +370,7 @@
     "current_price": 120,
     "discount": "-19%",
     "rating": 18,
-    "star": 4.5,
+    "star": 3,
     "category_id": "jewellery"
   },
   {
