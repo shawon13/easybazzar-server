@@ -21,6 +21,11 @@ app.get('/product/:id', (req, res) => {
 app.get('/flashsales', (req, res) => {
     res.send(flashsales)
 })
+app.get('/flashsales/flashsale/:id', (req, res) => {
+    const id = req.params.id;
+    const saleId = flashsales.find(s => s.id == id);
+    res.send(saleId)
+})
 app.get('/flashsale/:id', (req, res) => {
     const id = req.params.id;
     const saleId = flashsales.find(s => s.id == id);
