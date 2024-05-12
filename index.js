@@ -18,6 +18,11 @@ app.get('/product/:id', (req, res) => {
     const productId = products.find(p => p.id == id);
     res.send(productId)
 })
+app.get('/product/:name', (req, res) => {
+    const name = req.params.name;
+    const productName = products.find(p => p.name == name);
+    res.send(productName)
+})
 app.get('/flashsales', (req, res) => {
     res.send(flashsales)
 })
