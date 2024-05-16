@@ -18,11 +18,6 @@ app.get('/product/:id', (req, res) => {
     const productId = products.find(p => p.id == id);
     res.send(productId)
 })
-app.get('/product/:name', (req, res) => {
-    const name = req.params.name;
-    const productName = products.find(p => p.name == name);
-    res.send(productName)
-})
 app.get('/flashsales', (req, res) => {
     res.send(flashsales)
 })
@@ -35,6 +30,12 @@ app.get('/flashsale/:id', (req, res) => {
     const id = req.params.id;
     const saleId = flashsales.find(s => s.id == id);
     res.send(saleId)
+})
+app.get('/categories/:categoryId', (req, res) => {
+    const id = req.params.categoryId;
+    console.log(id)
+    const categoryId = products.filter(c => c.category_id == id);
+    res.send(categoryId)
 })
 app.get('/', (req, res) => {
     res.send('Hello World!')
