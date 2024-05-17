@@ -39,8 +39,9 @@ app.get('/categories/:categoryId', (req, res) => {
 })
 app.get('/categories/childcategory/:id', (req, res) => {
     const id = req.params.id;
-    const productId = products.filter(p => p.id == id);
-    res.send(productId)
+    console.log(id)
+    const childcategoryId = products.filter(p => p.id == id);
+    res.send(childcategoryId)
 })
 app.get('/', (req, res) => {
     res.send('Hello World!')
