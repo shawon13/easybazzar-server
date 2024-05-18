@@ -8,7 +8,8 @@
     "discount": "-23%",
     "rating": 22,
     "star": 4,
-    "category_id": "traditional-wear"
+    "category_id": "traditional-wear",
+    "quantity": 1
   },
   {
     "id": "sarees",
@@ -19,7 +20,8 @@
     "discount": "-20%",
     "rating": 122,
     "star": 4.5,
-    "category_id": "traditional-wear"
+    "category_id": "traditional-wear",
+    "quantity": 1
   },
   {
     "id": "shalwar_kameez",
@@ -30,7 +32,8 @@
     "discount": "-23%",
     "rating": 222,
     "star": 4.5,
-    "category_id": "traditional-wear"
+    "category_id": "traditional-wear",
+    "quantity": 1
   },
   {
     "id": "sarees",
@@ -41,7 +44,8 @@
     "discount": "-13%",
     "rating": 91,
     "star": 4,
-    "category_id": "traditional-wear"
+    "category_id": "traditional-wear",
+    "quantity": 1
   },
   {
     "id": "kurtis",
@@ -52,7 +56,8 @@
     "discount": "-58%",
     "rating": 658,
     "star": 4.5,
-    "category_id": "traditional-wear"
+    "category_id": "traditional-wear",
+    "quantity": 1
   },
   {
     "id": "abayas_long_dresses",
@@ -63,7 +68,8 @@
     "discount": "-49%",
     "rating": 14,
     "star": 3,
-    "category_id": "muslim-wear"
+    "category_id": "muslim-wear",
+    "quantity": 1
   },
   {
     "id": "kurtis",
@@ -74,7 +80,8 @@
     "discount": "-60%",
     "rating": 20,
     "star": 4,
-    "category_id": "traditional-wear"
+    "category_id": "traditional-wear",
+    "quantity": 1
   },
   {
     "id": "hijabs",
@@ -85,7 +92,8 @@
     "discount": "-31%",
     "rating": 28,
     "star": 4,
-    "category_id": "muslim-wear"
+    "category_id": "muslim-wear",
+    "quantity": 1
   },
   {
     "id": "abayas_long_dresses",
@@ -96,7 +104,8 @@
     "discount": "-55%",
     "rating": 15,
     "star": 4.5,
-    "category_id": "muslim-wear"
+    "category_id": "muslim-wear",
+    "quantity": 1
   },
   {
     "id": "tops",
@@ -107,7 +116,8 @@
     "discount": "-35%",
     "rating": 262,
     "star": 3,
-    "category_id": "western-wear"
+    "category_id": "western-wear",
+    "quantity": 1
   },
   {
     "id": "hijabs",
@@ -118,7 +128,8 @@
     "discount": "52%",
     "rating": 58,
     "star": 4,
-    "category_id": "muslim-wear"
+    "category_id": "muslim-wear",
+    "quantity": 1
   },
   {
     "id": "heels",
@@ -129,7 +140,8 @@
     "discount": "-51%",
     "rating": 102,
     "star": 5,
-    "category_id": "shoes"
+    "category_id": "shoes",
+    "quantity": 1
   },
   {
     "id": "tops",
@@ -140,7 +152,8 @@
     "discount": "-35%",
     "rating": 62,
     "star": 4.5,
-    "category_id": "western-wear"
+    "category_id": "western-wear",
+    "quantity": 1
   },
   {
     "id": "heels",
@@ -151,7 +164,8 @@
     "discount": "-50%",
     "rating": 162,
     "star": 4.5,
-    "category_id": "western-wear"
+    "category_id": "western-wear",
+    "quantity": 1
   },
   {
     "id": "snakers",
@@ -162,7 +176,8 @@
     "discount": "-45%",
     "rating": 196,
     "star": 3.5,
-    "category_id": "shoes"
+    "category_id": "shoes",
+    "quantity": 1
   },
   {
     "id": "face_mask_packs",
@@ -173,7 +188,8 @@
     "discount": "-48%",
     "rating": 1262,
     "star": 4,
-    "category_id": "skin-care"
+    "category_id": "skin-care",
+    "quantity": 1
   },
   {
     "id": "face_wash_cleansers",
@@ -184,7 +200,8 @@
     "discount": "-30%",
     "rating": 2262,
     "star": 4.7,
-    "category_id": "skin-care"
+    "category_id": "skin-care",
+    "quantity": 1
   },
   {
     "id": "face_mask_packs",
@@ -195,7 +212,8 @@
     "discount": "-55%",
     "rating": 662,
     "star": 4,
-    "category_id": "skin-care"
+    "category_id": "skin-care",
+    "quantity": 1
   },
   {
     "id": "face_wash_cleansers",
@@ -206,7 +224,8 @@
     "discount": "-24%",
     "rating": 262,
     "star": 4,
-    "category_id": "skin-care"
+    "category_id": "skin-care",
+    "quantity": 1
   },
   {
     "id": "makeup_palettes_sets",
@@ -217,7 +236,8 @@
     "discount": "-44%",
     "rating": 22,
     "star": 4.5,
-    "category_id": "makeup"
+    "category_id": "makeup",
+    "quantity": 1
   },
   {
     "id": "makeup_accessories",
@@ -228,7 +248,8 @@
     "discount": "-50%",
     "rating": 212,
     "star": 4.3,
-    "category_id": "makeup"
+    "category_id": "makeup",
+    "quantity": 1
   },
   {
     "id": "women's perfume",
@@ -239,7 +260,8 @@
     "discount": "-0%",
     "rating": 3,
     "star": 2,
-    "category_id": "fragrances"
+    "category_id": "fragrances",
+    "quantity": 1
   },
   {
     "id": "men's_perfume",
@@ -250,7 +272,8 @@
     "discount": "-0%",
     "rating": 8,
     "star": 4.6,
-    "category_id": "fragrances"
+    "category_id": "fragrances",
+    "quantity": 1
   },
   {
     "id": "backpacks",
@@ -261,7 +284,8 @@
     "discount": "-60%",
     "rating": 8,
     "star": 3,
-    "category_id": "bags"
+    "category_id": "bags",
+    "quantity": 1
   },
   {
     "id": "backpacks",
@@ -272,7 +296,8 @@
     "discount": "-15%",
     "rating": 8,
     "star": 4.5,
-    "category_id": "bags"
+    "category_id": "bags",
+    "quantity": 1
   },
   {
     "id": "business_bags",
@@ -294,7 +319,8 @@
     "discount": "-40%",
     "rating": 928,
     "star": 4,
-    "category_id": "bags"
+    "category_id": "bags",
+    "quantity": 1
   },
   {
     "id": "wallets",
@@ -305,7 +331,8 @@
     "discount": "-15%",
     "rating": 28,
     "star": 4.5,
-    "category_id": "bags"
+    "category_id": "bags",
+    "quantity": 1
   },
   {
     "id": "fashion",
@@ -316,7 +343,8 @@
     "discount": "-75%",
     "rating": 118,
     "star": 4.5,
-    "category_id": "watches"
+    "category_id": "watches",
+    "quantity": 1
   },
   {
     "id": "fashion",
@@ -327,7 +355,8 @@
     "discount": "-50%",
     "rating": 778,
     "star": 4.5,
-    "category_id": "watches"
+    "category_id": "watches",
+    "quantity": 1
   },
   {
     "id": "casual",
@@ -338,7 +367,8 @@
     "discount": "-70%",
     "rating": 8,
     "star": 4.5,
-    "category_id": "watches"
+    "category_id": "watches",
+    "quantity": 1
   },
   {
     "id": "casual",
@@ -349,7 +379,8 @@
     "discount": "-70%",
     "rating": 48,
     "star": 4.5,
-    "category_id": "watches"
+    "category_id": "watches",
+    "quantity": 1
   },
   {
     "id": "necklaces",
@@ -360,7 +391,8 @@
     "discount": "-36%",
     "rating": 84,
     "star": 4,
-    "category_id": "jewellery"
+    "category_id": "jewellery",
+    "quantity": 1
   },
   {
     "id": "necklaces",
@@ -371,7 +403,8 @@
     "discount": "-19%",
     "rating": 18,
     "star": 3,
-    "category_id": "jewellery"
+    "category_id": "jewellery",
+    "quantity": 1
   },
   {
     "id": "rings",
@@ -382,7 +415,8 @@
     "discount": "-30%",
     "rating": 1118,
     "star": 4,
-    "category_id": "jewellery"
+    "category_id": "jewellery",
+    "quantity": 1
   },
   {
     "id": "rings",
@@ -393,7 +427,8 @@
     "discount": "-25%",
     "rating": 18,
     "star": 4,
-    "category_id": "jewellery"
+    "category_id": "jewellery",
+    "quantity": 1
   },
   {
     "id": "jeans",
@@ -404,7 +439,8 @@
     "discount": "-75%",
     "rating": 38,
     "star": 4.5,
-    "category_id": "clothing"
+    "category_id": "clothing",
+    "quantity": 1
   },
   {
     "id": "Shirts",
@@ -415,7 +451,8 @@
     "discount": "-75%",
     "rating": 1118,
     "star": 4.5,
-    "category_id": "clothing"
+    "category_id": "clothing",
+    "quantity": 1
   },
   {
     "id": "panjabi",
@@ -426,7 +463,8 @@
     "discount": "-85%",
     "rating": 118,
     "star": 4,
-    "category_id": "clothing"
+    "category_id": "clothing",
+    "quantity": 1
   },
   {
     "id": "Sneakers",
@@ -437,7 +475,8 @@
     "discount": "-41%",
     "rating": 418,
     "star": 4.5,
-    "category_id": "shoes"
+    "category_id": "shoes",
+    "quantity": 1
   },
   {
     "id": "formal_shoes",
@@ -448,7 +487,8 @@
     "discount": "-25%",
     "rating": 18,
     "star": 4,
-    "category_id": "shoes"
+    "category_id": "shoes",
+    "quantity": 1
   },
   {
     "id": "sandals",
@@ -459,7 +499,8 @@
     "discount": "-50%",
     "rating": 518,
     "star": 4,
-    "category_id": "shoes"
+    "category_id": "shoes",
+    "quantity": 1
   },
   {
     "id": "sunglasses",
@@ -470,7 +511,8 @@
     "discount": "-24%",
     "rating": 1318,
     "star": 4,
-    "category_id": "eyewear"
+    "category_id": "eyewear",
+    "quantity": 1
   },
   {
     "id": "sunglasses",
@@ -481,7 +523,8 @@
     "discount": "-69%",
     "rating": 218,
     "star": 4,
-    "category_id": "eyewear"
+    "category_id": "eyewear",
+    "quantity": 1
   },
   {
     "id": "diapers",
@@ -492,7 +535,8 @@
     "discount": "-28%",
     "rating": 1448,
     "star": 4,
-    "category_id": "diapering-potty"
+    "category_id": "diapering-potty",
+    "quantity": 1
   },
   {
     "id": "baby_toddler_foods",
@@ -503,7 +547,8 @@
     "discount": "-2%",
     "rating": 348,
     "star": 4.5,
-    "category_id": "feeding"
+    "category_id": "feeding",
+    "quantity": 1
   },
   {
     "id": "apple_phones",
@@ -514,7 +559,8 @@
     "discount": "-12%",
     "rating": 8,
     "star": 4.5,
-    "category_id": "smartphones"
+    "category_id": "smartphones",
+    "quantity": 1
   },
   {
     "id": "samsung_phones",
@@ -525,7 +571,8 @@
     "discount": "-8%",
     "rating": 3,
     "star": 4.5,
-    "category_id": "smartphones"
+    "category_id": "smartphones",
+    "quantity": 1
   },
   {
     "id": "canon",
@@ -536,7 +583,8 @@
     "discount": "-10%",
     "rating": 8,
     "star": 5,
-    "category_id": "cameeras"
+    "category_id": "cameeras",
+    "quantity": 1
   },
   {
     "id": "gopro",
@@ -547,7 +595,8 @@
     "discount": "-12%",
     "rating": 348,
     "star": 4.5,
-    "category_id": "cameeras"
+    "category_id": "cameeras",
+    "quantity": 1
   },
   {
     "id": "headphones_heansets",
@@ -558,7 +607,8 @@
     "discount": "-50%",
     "rating": 81,
     "star": 4,
-    "category_id": "audio-wearable"
+    "category_id": "audio-wearable",
+    "quantity": 1
   },
   {
     "id": "smartwatches",
@@ -569,7 +619,8 @@
     "discount": "-32%",
     "rating": 38,
     "star": 4,
-    "category_id": "audio-wearable"
+    "category_id": "audio-wearable",
+    "quantity": 1
   },
   {
     "id": "laptop",
@@ -580,7 +631,8 @@
     "discount": "-6%",
     "rating": 1,
     "star": 4.5,
-    "category_id": "laptop-desktops"
+    "category_id": "laptop-desktops",
+    "quantity": 1
   },
   {
     "id": "all_in_one_desltop",
@@ -591,7 +643,8 @@
     "discount": "-46%",
     "rating": 13,
     "star": 4.5,
-    "category_id": "laptop-desktops"
+    "category_id": "laptop-desktops",
+    "quantity": 1
   },
   {
     "id": "smart_television",
@@ -602,7 +655,8 @@
     "discount": "-15%",
     "rating": 348,
     "star": 4.5,
-    "category_id": "television"
+    "category_id": "television",
+    "quantity": 1
   },
   {
     "id": "cooktops_ranges",
@@ -613,7 +667,8 @@
     "discount": "-31%",
     "rating": 348,
     "star": 4.5,
-    "category_id": "kitchen-appliances"
+    "category_id": "kitchen-appliances",
+    "quantity": 1
   },
   {
     "id": "deep_freezer",
@@ -624,7 +679,8 @@
     "discount": "-2%",
     "rating": 34,
     "star": 4.5,
-    "category_id": "kitchen-appliances"
+    "category_id": "kitchen-appliances",
+    "quantity": 1
   },
   {
     "id": "ceiling_fans",
@@ -635,7 +691,8 @@
     "discount": "-12%",
     "rating": 38,
     "star": 4.5,
-    "category_id": "fans"
+    "category_id": "fans",
+    "quantity": 1
   },
   {
     "id": "stand_fan",
@@ -646,7 +703,8 @@
     "discount": "-10%",
     "rating": 248,
     "star": 4.5,
-    "category_id": "fans"
+    "category_id": "fans",
+    "quantity": 1
   },
   {
     "id": "wireless_earbuds",
@@ -657,7 +715,8 @@
     "discount": "-72%",
     "rating": 1348,
     "star": 4.5,
-    "category_id": "audio"
+    "category_id": "audio",
+    "quantity": 1
   },
   {
     "id": "smart_speaker",
@@ -668,7 +727,8 @@
     "discount": "-70%",
     "rating": 348,
     "star": 4.5,
-    "category_id": "audio"
+    "category_id": "audio",
+    "quantity": 1
   },
   {
     "id": "monitors",
@@ -679,7 +739,8 @@
     "discount": "-17%",
     "rating": 38,
     "star": 4,
-    "category_id": "computer-accessories"
+    "category_id": "computer-accessories",
+    "quantity": 1
   },
   {
     "id": "mice_keyboard",
@@ -690,7 +751,8 @@
     "discount": "-42%",
     "rating": 48,
     "star": 4,
-    "category_id": "computer-accessories"
+    "category_id": "computer-accessories",
+    "quantity": 1
   },
   {
     "id": "external_hard_drives",
@@ -701,7 +763,8 @@
     "discount": "-10%",
     "rating": 48,
     "star": 4.6,
-    "category_id": "storage"
+    "category_id": "storage",
+    "quantity": 1
   },
   {
     "id": "internal_hard_drives",
@@ -712,7 +775,8 @@
     "discount": "-10%",
     "rating": 138,
     "star": 4.5,
-    "category_id": "storage"
+    "category_id": "storage",
+    "quantity": 1
   },
   {
     "id": "fruits",
@@ -723,7 +787,8 @@
     "discount": "-13%",
     "rating": 348,
     "star": 4.5,
-    "category_id": "fruits-meat-frozen"
+    "category_id": "fruits-meat-frozen",
+    "quantity": 1
   },
   {
     "id": "vegetables",
@@ -734,7 +799,8 @@
     "discount": "-17%",
     "rating": 5348,
     "star": 4.5,
-    "category_id": "fruits-meat-frozen"
+    "category_id": "fruits-meat-frozen",
+    "quantity": 1
   },
   {
     "id": "dried_fish",
@@ -745,7 +811,8 @@
     "discount": "-28%",
     "rating": 148,
     "star": 4.5,
-    "category_id": "fruits-meat-frozen"
+    "category_id": "fruits-meat-frozen",
+    "quantity": 1
   },
   {
     "id": "rice",
@@ -756,7 +823,8 @@
     "discount": "-24%",
     "rating": 1348,
     "star": 4.5,
-    "category_id": "cooking-ingredients"
+    "category_id": "cooking-ingredients",
+    "quantity": 1
   },
   {
     "id": "oil",
@@ -767,7 +835,8 @@
     "discount": "-22%",
     "rating": 648,
     "star": 4.5,
-    "category_id": "cooking-ingredients"
+    "category_id": "cooking-ingredients",
+    "quantity": 1
   },
   {
     "id": "chocolate",
@@ -778,7 +847,8 @@
     "discount": "-19%",
     "rating": 38,
     "star": 4.5,
-    "category_id": "chocolates-candy"
+    "category_id": "chocolates-candy",
+    "quantity": 1
   },
   {
     "id": "candy",
@@ -789,7 +859,8 @@
     "discount": "-30%",
     "rating": 64,
     "star": 4.5,
-    "category_id": "chocolates-candy"
+    "category_id": "chocolates-candy",
+    "quantity": 1
   },
   {
     "id": "bed_sheets",
@@ -800,7 +871,8 @@
     "discount": "-31%",
     "rating": 480,
     "star": 4.5,
-    "category_id": "bedding"
+    "category_id": "bedding",
+    "quantity": 1
   },
   {
     "id": "bedroom_furniture",
@@ -811,7 +883,8 @@
     "discount": "-7%",
     "rating": 8,
     "star": 4.5,
-    "category_id": "furniture"
+    "category_id": "furniture",
+    "quantity": 1
   },
   {
     "id": "home_office_furniture",
@@ -822,7 +895,8 @@
     "discount": "-18%",
     "rating": 48,
     "star": 4.5,
-    "category_id": "furniture"
+    "category_id": "furniture",
+    "quantity": 1
   },
   {
     "id": "treadmills",
@@ -833,7 +907,8 @@
     "discount": "-0%",
     "rating": 80,
     "star": 4.5,
-    "category": "exercise-fitness"
+    "category": "exercise-fitness",
+    "quantity": 1
   },
   {
     "id": "fitness_accessories",
@@ -844,7 +919,8 @@
     "discount": "-56%",
     "rating": 141,
     "star": 4.5,
-    "category": "exercise-fitness"
+    "category": "exercise-fitness",
+    "quantity": 1
   },
   {
     "id": "boxing_gloves",
@@ -855,7 +931,8 @@
     "discount": "-10%",
     "rating": 48,
     "star": 4.7,
-    "category_id": "boxing-martial-arts"
+    "category_id": "boxing-martial-arts",
+    "quantity": 1
   },
   {
     "id": "boxing_protective_gear",
@@ -866,7 +943,8 @@
     "discount": "-18%",
     "rating": 4,
     "star": 4.7,
-    "category_id": "boxing-martial-arts"
+    "category_id": "boxing-martial-arts",
+    "quantity": 1
   },
   {
     "id": "football",
@@ -877,7 +955,8 @@
     "discount": "-50%",
     "rating": 148,
     "star": 4.7,
-    "category_id": "team-sports"
+    "category_id": "team-sports",
+    "quantity": 1
   },
   {
     "id": "cricket",
@@ -888,7 +967,8 @@
     "discount": "-70%",
     "rating": 48,
     "star": 4.8,
-    "category_id": "team-sports"
+    "category_id": "team-sports",
+    "quantity": 1
   },
   {
     "id": "oils",
@@ -899,7 +979,8 @@
     "discount": "-3%",
     "rating": 78,
     "star": 4.7,
-    "category_id": "oil-fluids"
+    "category_id": "oil-fluids",
+    "quantity": 1
   },
   {
     "id": "cleaners",
@@ -910,7 +991,8 @@
     "discount": "-0%",
     "rating": 18,
     "star": 4.8,
-    "category_id": "oil-fluids"
+    "category_id": "oil-fluids",
+    "quantity": 1
   },
   {
     "id": "cleaners_kits",
@@ -921,7 +1003,8 @@
     "discount": "-31%",
     "rating": 248,
     "star": 4.8,
-    "category_id": "vehicle-care"
+    "category_id": "vehicle-care",
+    "quantity": 1
   },
   {
     "id": "car_polishes_waxes",
@@ -932,6 +1015,7 @@
     "discount": "-17%",
     "rating": 148,
     "star": 4.9,
-    "category_id": "vehicle-care"
+    "category_id": "vehicle-care",
+    "quantity": 1
   }
 ]
