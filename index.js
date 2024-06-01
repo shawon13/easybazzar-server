@@ -6,6 +6,7 @@ const port = process.env.PORT || 5000;
 const categories = require('./data/category.json')
 const products = require('./data/products.json')
 const flashsales = require('./data/flashsales.json')
+const brands = require('./data/brands.json')
 
 app.get('/categories', (req, res) => {
     res.send(categories)
@@ -42,6 +43,9 @@ app.get('/categories/childcategory/:id', (req, res) => {
     console.log(id)
     const childcategoryId = products.filter(p => p.id == id);
     res.send(childcategoryId)
+})
+app.get('/brands', (req, res) => {
+    res.send(brands)
 })
 app.get('/', (req, res) => {
     res.send('Hello World!')
