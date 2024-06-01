@@ -7,6 +7,7 @@ const categories = require('./data/category.json')
 const products = require('./data/products.json')
 const flashsales = require('./data/flashsales.json')
 const brands = require('./data/brands.json')
+const brandsproducts = require('./data/brandsproducts.json')
 
 app.get('/categories', (req, res) => {
     res.send(categories)
@@ -46,6 +47,11 @@ app.get('/categories/childcategory/:id', (req, res) => {
 })
 app.get('/brands', (req, res) => {
     res.send(brands)
+})
+app.get('/brands/:id', (req, res) => {
+    const id = req.params.id;
+    const brandsId = brandsproducts.filter(brand => brand.id == id);
+    res.send(brandsId)
 })
 app.get('/', (req, res) => {
     res.send('Hello World!')
