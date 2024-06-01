@@ -1,34 +1,34 @@
 [
     {
-        "id": "1",
+        "id": "ponds",
         "img": "https://i.ibb.co/Hg3wVwS/ponds.png"
     },
     {
-        "id": "2",
+        "id": "parachute",
         "img": "https://i.ibb.co/nnSCnk0/parachute.png"
     },
     {
-        "id": "3",
+        "id": "dettol",
         "img": "https://i.ibb.co/sRPZD9Q/dettol.png"
     },
     {
-        "id": "4",
+        "id": "apex",
         "img": "https://i.ibb.co/jgdf7mN/apex.png"
     },
     {
-        "id": "5",
+        "id": "bata",
         "img": "https://i.ibb.co/HhvKkW7/bata.png"
     },
     {
-        "id": "6",
+        "id": "nestle",
         "img": "https://i.ibb.co/T48JphH/cat3076.jpg"
     },
     {
-        "id": "7",
+        "id": "unilever",
         "img": "https://i.ibb.co/2nrVSYD/cat2863.jpg"
     },
     {
-        "id": "8",
+        "id": "lotto",
         "img": "https://i.ibb.co/y8RrYD0/lotto.png"
     }
 ]
