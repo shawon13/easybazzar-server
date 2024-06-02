@@ -48,7 +48,10 @@ app.get('/categories/childcategory/:id', (req, res) => {
 app.get('/brands', (req, res) => {
     res.send(brands)
 })
-app.get('/brands/:id', (req, res) => {
+app.get('/brandsproducts', (req, res) => {
+    res.send(brandsproducts)
+})
+app.get('/brandsproduct/:id', (req, res) => {
     const id = req.params.id;
     const brandsId = brandsproducts.filter(brand => brand.id == id);
     res.send(brandsId)
