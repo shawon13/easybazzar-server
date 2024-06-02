@@ -56,6 +56,11 @@ app.get('/brandsproduct/:id', (req, res) => {
     const brandsId = brandsproducts.filter(brand => brand.id == id);
     res.send(brandsId)
 })
+app.get('/brand/:id', (req, res) => {
+    const id = req.params.id;
+    const brandId = brandsproducts.find(brand => brand.id == id);
+    res.send(brandId)
+})
 app.get('/', (req, res) => {
     res.send('Hello World!')
 })
