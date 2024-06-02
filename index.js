@@ -52,7 +52,7 @@ app.get('/brandsproducts', (req, res) => {
     res.send(brandsproducts)
 })
 app.get('/brandsproduct/:id', (req, res) => {
-    const id = req.params.id;
+    const id = req.params.category_id;
     const brandsId = brandsproducts.filter(brand => brand.id == id);
     res.send(brandsId)
 })

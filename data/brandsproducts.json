@@ -1,6 +1,6 @@
 [
     {
-        "id": "apex",
+        "id": "apex-sandal",
         "name": "Apex Men's Sandal",
         "image": "https://i.ibb.co/FX67VW5/shoes.jpg",
         "original_price": 1400,
@@ -9,10 +9,11 @@
         "rating": 12,
         "brand": "apex",
         "star": 5,
+        "category_id": "apex",
         "quantity": 1
     },
     {
-        "id": "apex",
+        "id": "shoe-men",
         "name": "Sprint Light Blue Mesh Running Shoe for Men",
         "image": "https://i.ibb.co/rf7PkjM/ed27621849ed20a987045bf3ac662daa-jpg-750x750-jpg.jpg",
         "original_price": 4000,
@@ -21,10 +22,11 @@
         "rating": 3,
         "brand": "apex",
         "star": 2,
+        "category_id": "apex",
         "quantity": 1
     },
     {
-        "id": "apex",
+        "id": "black-leather",
         "name": "Apex Black Leather Moccasin for Men",
         "image": "https://i.ibb.co/LYSfsNT/loffer.jpg",
         "original_price": 2900,
@@ -33,10 +35,11 @@
         "rating": 3,
         "brand": "apex",
         "star": 3,
+        "category_id": "apex",
         "quantity": 1
     },
     {
-        "id": "bata",
+        "id": "ladies-sandal",
         "name": "Tamara Ladies Sandal by Comfit",
         "image": "https://i.ibb.co/BC8fs7C/ledies.jpg",
         "original_price": 1699,
@@ -45,10 +48,11 @@
         "rating": 13,
         "brand": "bata",
         "star": 3,
+        "category_id": "bata",
         "quantity": 1
     },
     {
-        "id": "bata",
+        "id": "bata-sandal",
         "name": "Bata FIELDER Fisherman Sandal",
         "image": "https://i.ibb.co/jZ6rbqD/man.jpg",
         "original_price": 1699,
@@ -57,10 +61,11 @@
         "rating": 23,
         "brand": "bata",
         "star": 4,
+        "category_id": "bata",
         "quantity": 1
     },
     {
-        "id": "nestle",
+        "id": "nescafe",
         "name": "NESTLE Nescafe Classic Pouch Pack - 200gm (Tin Container Free)",
         "image": "https://i.ibb.co/pLBXJjC/coffe.jpg",
         "original_price": 450,
@@ -69,10 +74,11 @@
         "rating": 1193,
         "brand": "nestle",
         "star": 5,
+        "category_id": "nestle",
         "quantity": 1
     },
     {
-        "id": "nestle",
+        "id": "nestle-ceralac",
         "name": "Nestle Ceralac Rice & Chicken - 250G Malaysia",
         "image": "https://i.ibb.co/jZ6rbqD/man.jpg",
         "original_price": 850,
@@ -81,10 +87,11 @@
         "rating": 20,
         "brand": "nestle",
         "star": 3.5,
+        "category_id": "nestle",
         "quantity": 1
     },
     {
-        "id": "unilever",
+        "id": "dove-shampoo",
         "name": "Dove Shampoo Hairfall Rescue 170ml",
         "image": "https://i.ibb.co/MRQJPMW/dove.jpg",
         "original_price": 200,
@@ -93,10 +100,11 @@
         "rating": 260,
         "brand": "dove",
         "star": 4.5,
+        "category_id": "unilever",
         "quantity": 1
     },
     {
-        "id": "unilever",
+        "id": "lovely-facewash",
         "name": "Glow & Lovely Facewash Instaglow with Multivitamins 100g",
         "image": "https://i.ibb.co/jZ6rbqD/man.jpg",
         "original_price": 190,
@@ -105,10 +113,11 @@
         "rating": 220,
         "brand": "glow & lovely",
         "star": 4.5,
+        "category_id": "unilever",
         "quantity": 1
     },
     {
-        "id": "lotto",
+        "id": "sports-sandal",
         "name": "Lotto Performer Sports Sandal for Men with Excellent Gripping Power - Lotto",
         "image": "https://i.ibb.co/88mwZzM/sports.jpg",
         "original_price": 1990,
@@ -117,10 +126,11 @@
         "rating": 112,
         "brand": "lotto",
         "star": 4.5,
+        "category_id": "lotto",
         "quantity": 1
     },
     {
-        "id": "lotto",
+        "id": "sport-shoe",
         "name": "Lotto Sport Lifestyle Shoe for Men",
         "image": "https://i.ibb.co/VT7D36H/lottoshoes.jpg",
         "original_price": 2790,
@@ -129,10 +139,11 @@
         "rating": 112,
         "brand": "lotto",
         "star": 4.5,
+        "category_id": "lotto",
         "quantity": 1
     },
     {
-        "id": "ponds",
+        "id": "ponds-facewash",
         "name": "Ponds Men Facewash Acne Solution 100g x 2",
         "image": "https://i.ibb.co/wyWc9Ly/facewash.jpg",
         "original_price": 560,
@@ -141,10 +152,11 @@
         "rating": 54,
         "brand": "pond's",
         "star": 4.5,
+        "category_id": "ponds",
         "quantity": 1
     },
     {
-        "id": "ponds",
+        "id": "ponds-cream",
         "name": "Ponds Bright Beauty Cream Serum 35g",
         "image": "https://i.ibb.co/rcDB65n/brightbeauty.jpg",
         "original_price": 240,
@@ -153,10 +165,11 @@
         "rating": 292,
         "brand": "pond's",
         "star": 4,
+        "category_id": "ponds",
         "quantity": 1
     },
     {
-        "id": "parachute",
+        "id": "parachute-oil",
         "name": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil | For Strong, Soft & Silky Hair|Deep Nourishment & Conditioning| All hair Types| 5.1 Fl.oz. (250ml)",
         "image": "https://i.ibb.co/zJJDRG3/parachuteoil.jpg",
         "original_price": 270,
@@ -165,10 +178,11 @@
         "rating": 772,
         "brand": "Parachute Advansed Aloe Vera",
         "star": 5,
+        "category_id": "parachute",
         "quantity": 1
     },
     {
-        "id": "parachute",
+        "id": "parachute-shampoo",
         "name": "Parachute Naturale Nourishing Care Shampoo with Aloe Vera & Coconut Milk| For Strong & Silky Hair| Smoothens Hair| Paraben Free, 100% Vegan| All Hair Types| 340 ml",
         "image": "https://i.ibb.co/8zLHGZB/shampoo.jpg",
         "original_price": 370,
@@ -177,10 +191,11 @@
         "rating": 2592,
         "brand": "parachute naturale",
         "star": 4,
+        "category_id": "parachute",
         "quantity": 1
     },
     {
-        "id": "dettol",
+        "id": "dettol-liquid",
         "name": "Dettol Antiseptic Disinfectant Liquid 500ml for First Aid, Medical & Personal Hygiene- use diluted",
         "image": "https://i.ibb.co/8zLHGZB/shampoo.jpg",
         "original_price": 170,
@@ -189,10 +204,11 @@
         "rating": 2192,
         "brand": "dettol",
         "star": 4,
+        "category_id": "dettol",
         "quantity": 1
     },
     {
-        "id": "dettol",
+        "id": "dettol-soap",
         "name": "Dettol Soap Summer Pack of 3 Bathing Bar Soap (Cool, Fresh & Original) 75gm x 3",
         "image": "https://i.ibb.co/8zLHGZB/shampoo.jpg",
         "original_price": 180,
@@ -201,6 +217,7 @@
         "rating": 252,
         "brand": "dettol",
         "star": 3.5,
+        "category_id": "dettol",
         "quantity": 1
     }
 ]
