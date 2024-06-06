@@ -15,10 +15,10 @@ app.get('/categories', (req, res) => {
 app.get('/products', (req, res) => {
     res.send(products)
 })
-app.get('/product/:id', (req, res) => {
-    const id = req.params.id;
-    const productId = products.find(p => p.id == id);
-    res.send(productId)
+app.get('/product/:name', (req, res) => {
+    const name = req.params.name;
+    const productName = products.find(p => p.name == name);
+    res.send(productName)
 })
 app.get('/flashsales', (req, res) => {
     res.send(flashsales)
