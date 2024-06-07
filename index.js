@@ -20,18 +20,23 @@ app.get('/product/:name', (req, res) => {
     const productName = products.find(p => p.name == name);
     res.send(productName)
 })
+app.get('/buynow/:name', (req, res) => {
+    const name = req.params.name;
+    const buynowName = products.find(p => p.name == name);
+    res.send(buynowName)
+})
 app.get('/flashsales', (req, res) => {
     res.send(flashsales)
 })
-app.get('/flashsales/flashsale/:id', (req, res) => {
-    const id = req.params.id;
-    const saleId = flashsales.find(s => s.id == id);
+app.get('/flashsales/flashsale/:name', (req, res) => {
+    const name = req.params.name;
+    const saleName = flashsales.find(s => s.name == name);
     res.send(saleId)
 })
-app.get('/flashsale/:id', (req, res) => {
-    const id = req.params.id;
-    const saleId = flashsales.find(s => s.id == id);
-    res.send(saleId)
+app.get('/flashsale/:name', (req, res) => {
+    const name = req.params.name;
+    const saleName = flashsales.find(s => s.name == name);
+    res.send(saleName)
 })
 app.get('/categories/:categoryId', (req, res) => {
     const id = req.params.categoryId;
