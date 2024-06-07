@@ -61,10 +61,10 @@ app.get('/brandsproduct/:categoryId', (req, res) => {
     const brandsId = brandsproducts.filter(brand => brand.category_id == id);
     res.send(brandsId)
 })
-app.get('/brand/:id', (req, res) => {
-    const id = req.params.id;
-    const brandId = brandsproducts.find(brand => brand.id == id);
-    res.send(brandId)
+app.get('/brand/:name', (req, res) => {
+    const name = req.params.name;
+    const brandName = brandsproducts.find(brand => brand.name == name);
+    res.send(brandName)
 })
 app.get('/', (req, res) => {
     res.send('Hello World!')
