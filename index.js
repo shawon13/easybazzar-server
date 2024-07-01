@@ -25,11 +25,6 @@ app.get('/buynow/:name', (req, res) => {
     const buynowName = products.find(p => p.name == name);
     res.send(buynowName)
 })
-app.get('/brand/buynow/:name', (req, res) => {
-    const name = req.params.name;
-    const buynowName = brandsproducts.find(b => b.name == name);
-    res.send(buynowName)
-})
 app.get('/flashsales', (req, res) => {
     res.send(flashsales)
 })
@@ -70,6 +65,11 @@ app.get('/brand/:name', (req, res) => {
     const name = req.params.name;
     const brandName = brandsproducts.find(brand => brand.name == name);
     res.send(brandName)
+})
+app.get('/brand/buynow/:name', (req, res) => {
+    const name = req.params.name;
+    const buynowName = brandsproducts.find(b => b.name == name);
+    res.send(buynowName)
 })
 app.get('/', (req, res) => {
     res.send('Hello World!')
