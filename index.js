@@ -11,7 +11,6 @@ app.use(
       "https://easybazaar-bcf10.web.app",
       "https://easybazaar-bcf10.firebaseapp.com",
     ],
-    methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
     credentials: true,
   }),
 );
